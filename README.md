@@ -86,7 +86,7 @@ In this dataset, we have some target variables which we are planning to use in o
 
 4.	Number of tweets also play a role in raising amount, that means if a company tweets often or more actively takes parts in events then it will more likely to raise funds. 
 
-# PREDICTED MODELS
+## PREDICTED MODELS
 
 We would also like to recommend some predictive models through which redcrow can evaluate a startup. We have used three model’s linear regression, lasso regression, and XG Boost. However, after getting results we had come to a conclusion that XG Boost is the best model to predict the amount of funding with respect to the funding rounds, which will clear that which sector, state, region or factors affect the funding of startups and their future success. Another reason for recommending XG Boost is that it has given much higher accuracy among these models, about 88% which is really good.
 
