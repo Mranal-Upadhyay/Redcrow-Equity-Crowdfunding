@@ -1,0 +1,177 @@
+---
+title: "ALY_6080_Social_Media_XN"
+author: "Mranal Upadhyay"
+date: "6/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+
+```{r LOAD PACKAGES}
+library(readxl)
+#install.packages("skimr")
+library(skimr)
+library(readr)
+
+# library(dataPreparation)
+library(tidyverse)
+library(dplyr)
+install.packages("corrplot")
+library(corrplot)
+library(caret)
+library(ggplot2)
+#install.packages("leaps")
+library(leaps)
+library(rpart)
+#library(tree)
+# install.packages("glmnet")
+library(glmnet) 
+#library(car)
+#library(MASS)
+library(randomForest)
+library(magrittr)
+install.packages("xlsx")
+
+```
+
+```{r DATASET}
+StartupSocialM <- read_excel(file.choose(), col_names=TRUE)
+```
+
+```{r EDA and Preprocessing}
+StartupSocialM1 <- StartupSocialM %>% select(...1,link,name, pitch, location,market:tweets) %>% rename(Website_Source = , Startup_Name= name, Investor_Pitch = pitch, Business_Market = market, Employee_Size = size, Funding_Stage=stage, Capital_Raised = raised, Company_Website= website, Years_in_Business= years, Annual_capital_Raised= annual_raised, two_Mil_val_mark= raised_2mil, twelve_mil_val_mark = raised_12mil, Social_media_followers= followers, Social_media_following= following, Twitter_presence= tweets)
+
+print(StartupSocialM1)
+
+sum(is.na(StartupSocialM1))
+
+StartupSocialM1 <- na.omit(StartupSocialM1) 
+
+print(StartupSocialM1)
+
+sum(is.na(StartupSocialM1))
+skim(StartupSocialM1)
+
+library(scales)
+StartupSocialM1$Annual_capital_Raised <- comma(StartupSocialM1$Annual_capital_Raised)
+StartupSocialM1$Capital_Raised <- comma(StartupSocialM1$Capital_Raised)
+library(dplyr)
+
+StartupSocialM2 <- StartupSocialM1 %>% arrange(desc(Annual_capital_Raised,Capital_Raised,Years_in_Business))
+
+StartupSocialM2
+
+
+sum(is.na(StartupSocialM2))
+
+StartupSocialM2 %>% distinct()
+#library(xlsx)
+write.csv(StartupSocialM2, "Social_Media_Analysis_XN_Redcrow.csv", col.names = TRUE, row.names = TRUE, append = FALSE)
+
+skim(StartupSocialM2)
+
+
+
+```
+
+```{r Data Visualization}
+
+library(ggplot2)
+
+SocialPlot1 <- StartupSocialM2 %>%
+  ggplot(aes(Years_in_Business, Annual_capital_Raised)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between Raised funds and Total funds") +
+ scale_x_continuous(breaks=c(0,2,5,8,10), labels=c("0","2", "5", "8","10")) +
+scale_y_discrete(breaks = seq(from = 0, to = 100000000, by = 100000))
+  #geom_smooth(method = "lm", se = F)
+SocialPlot1
+
+#relation between total funds and funding rounds
+
+SocialPlot2 <- StartupSocialM2 %>%
+  ggplot(aes(Years_in_Business, Social_media_following)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between Funding rounds and Total funds") +
+  geom_smooth(method = "lm", se = F)
+SocialPlot2
+
+#relation between total funds and funding duration
+
+SocialPlot3 <- StartupSocialM2 %>%
+  ggplot(aes(location, Twitter_presence)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between Funding duration and Total funds") +
+  geom_smooth(method = "lm", se = F)
+SocialPlot3
+#relation between total funds and participants
+
+SocialPlot4 <- StartupSocialM2 %>%
+  ggplot(aes(Funding_Stage, Capital_Raised)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between participants and Total funds") +
+  geom_smooth(method = "lm", se = F) +
+  scale_y_discrete(breaks = seq(from = 0, to = 5500000, by = 500000),labels=c("0","500000","1000000","1500000","2000000","2500000","3000000","3500000","4000000","4500000","5000000","5500000"))
+SocialPlot4
+
+#bivariate analysis 
+
+#startup category
+#StartupSocialM2 %>%
+ # ggplot(aes(category_code)) +
+ # geom_bar() +
+ # facet_grid(~state_division) +
+ # coord_flip()
+
+
+#funding round type
+Plot5 <- StartupSocialM2 %>%
+  ggplot(aes(Funding_Stage)) +
+  geom_bar() +
+  facet_grid(~location) +
+  coord_flip()
+Plot5
+library(corrplot)
+installed.packages("ggcorrplot")
+library(ggcorrplot)
+
+SentimentAnalysis7$Funding_duration<-as.numeric(SentimentAnalysis7$Funding_duration)
+
+StartupSocialM2 %>%
+  select_if(is.numeric) %>%
+  cor %>% 
+  ggcorrplot(type = "lower", ggtheme = theme_minimal, colors = c("#6D9EC1","white","#E46726"),
+             show.diag = T,
+             lab = T, lab_size = 5,
+             title = "Correlation Matrix for the Startup funding dataset",
+             legend.title = "Correlation Value",
+             outline.color = "white",
+             hc.order = T)
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+

@@ -1,0 +1,196 @@
+```{r TITLE AND INTRODUCTION}
+# TITLE: PROJECT DELIVERABLE FOR REDCROW INC
+# AUTHOR: Mranal Upadhyay
+# DATED: 2 JUNE 2020
+# PURPOSE: VALUE CREATION THROUGH IN DEPTH ANALYSIS INTO PRICING AND FINANCIAL TRENDS OF HEALTHCARE STARTUPS.
+```
+
+```{r LOAD PACKAGES}
+library(readxl)
+#install.packages("skimr")
+library(skimr)
+library(readr)
+
+# library(dataPreparation)
+library(tidyverse)
+library(dplyr)
+# install.packages("corrplot")
+library(corrplot)
+library(caret)
+library(ggplot2)
+#install.packages("leaps")
+library(leaps)
+library(rpart)
+#library(tree)
+# install.packages("glmnet")
+library(glmnet) 
+#library(car)
+#library(MASS)
+library(randomForest)
+library(magrittr)
+#install.packages("scales")
+
+
+```
+
+```{r INTRODUCE THE DATA}
+SentimentAnalysis <- read_excel(file.choose(),col_names= TRUE)
+print(SentimentAnalysis)
+
+dim(SentimentAnalysis)
+
+skim(SentimentAnalysis)
+
+str(SentimentAnalysis)
+
+SentimentAnalysis1 <- as.data.frame(SentimentAnalysis)
+
+skim(SentimentAnalysis1)
+
+sum(is.na(SentimentAnalysis1))
+
+
+```
+
+```{r DATA PREPROCESSING}
+Column_evaluation <- c("id","closed_at","homepage_url","description","short_description","tag_list","relationships","funded_at","funding_round_code","is_first_round","is_last_round")
+library(dplyr)
+SentimentAnalysis2 <- SentimentAnalysis1[, !names(SentimentAnalysis1) %in% Column_evaluation]
+
+print(SentimentAnalysis2)
+
+sum(is.na(SentimentAnalysis2))
+
+skim(SentimentAnalysis2)
+attach(SentimentAnalysis2)
+
+last_funding_date <- as.Date(SentimentAnalysis2$last_funding_date, format="%yyyy/%mm/%dd")
+ Initial_Funding_date <- as.Date(SentimentAnalysis2$Initial_Funding_date, format="%yyyy/%mm/%dd")
+
+Funding_period<-as.data.frame(last_funding_date-Initial_Funding_date)
+colnames(Funding_period) <- "Funding_duration"
+
+ SentimentAnalysis3 <- SentimentAnalysis2  %>%  arrange(Total_funding,funding_rounds)
+SentimentAnalysis3 <- cbind(SentimentAnalysis2,Funding_period)
+
+library(scales)
+SentimentAnalysis3$Total_funding <- comma(SentimentAnalysis3$Total_funding)
+
+SentimentAnalysis3
+
+
+SentimentAnalysis3<-SentimentAnalysis3 %>% mutate(twitter_account_available = ifelse(is.na(twitter_username),0, 1))
+
+#remove rows where funding round = 0 and fund total=0
+SentimentAnalysis3 <- SentimentAnalysis3[!(SentimentAnalysis3$funding_rounds=="0" & SentimentAnalysis3$Total_funding=="0"),]
+
+#drop_mod_col<-c('twitter_username','first_funding_at','last_funding_at')
+
+#SentimentAnalysis3<-SentimentAnalysis3[ ,!names(SentimentAnalysis3) %in% drop_mod_col]
+
+SentimentAnalysis3 %>%
+  filter( funding_rounds != "0" & 
+           Total_funding != "0" &
+           participants != c('NA','0') & twitter_username != "NA")
+
+print(SentimentAnalysis3)
+#get percenatge of missing values
+per_missing<-as.data.frame(colMeans(is.na(SentimentAnalysis3))*100)
+
+names(per_missing)<-c('Percentage_missing')
+
+per_missing
+
+
+str(SentimentAnalysis3)
+glimpse(SentimentAnalysis3)
+
+summarize(SentimentAnalysis3, mean_funding_round = mean(funding_rounds), st_funding_rounds = sd(funding_rounds))
+summarize(SentimentAnalysis3, mean_raised_amount_usd = mean(Total_funding), st_funding_rounds = sd(raised_amount_usd))
+```
+
+
+```{r DATA VISUALIZATION}
+library(ggplot2)
+
+SenPlot1 <- SentimentAnalysis3 %>%
+  ggplot(aes(raised_amount_usd, Total_funding)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between Raised funds and Total funds") +
+  geom_smooth(method = "lm", se = F)
+SenPlot1
+
+#relation between total funds and funding rounds
+
+SenPlot2 <- SentimentAnalysis3 %>%
+  ggplot(aes(funding_rounds, Total_funding)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between Funding rounds and Total funds") +
+  geom_smooth(method = "lm", se = F)
+
+
+#relation between total funds and funding duration
+
+SenPlot3 <- SentimentAnalysis3 %>%
+  ggplot(aes(fundinground_duration_in_days, Total_funding)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between Funding duration and Total funds") +
+  geom_smooth(method = "lm", se = F)
+
+#relation between total funds and participants
+
+SenPlot4 <- SentimentAnalysis3 %>%
+  ggplot(aes(participants, funding_total_usd)) +
+  geom_point() +
+  theme_minimal() +
+  labs(title = "Relationship between participants and Total funds") +
+  geom_smooth(method = "lm", se = F)
+
+
+#bivariate analysis 
+
+#startup category
+healthcare_update_3 %>%
+  ggplot(aes(category_code)) +
+  geom_bar() +
+  facet_grid(~state_division) +
+  coord_flip()
+
+
+#funding round type
+healthcare_update_3 %>%
+  ggplot(aes(funding_round_type)) +
+  geom_bar() +
+  facet_grid(~funding_rounds) +
+  coord_flip()
+
+library(corrplot)
+installed.packages("ggcorrplot")
+library(ggcorrplot)
+
+healthcare_update_3$fundinground_duration_in_days<-as.numeric(healthcare_update_3$fundinground_duration_in_days)
+
+healthcare_update_3 %>%
+  select_if(is.numeric) %>%
+  cor %>% 
+  ggcorrplot(type = "lower", ggtheme = theme_minimal, colors = c("#6D9EC1","white","#E46726"),
+             show.diag = T,
+             lab = T, lab_size = 5,
+             title = "Correlation Matrix for the Startup funding dataset",
+             legend.title = "Correlation Value",
+             outline.color = "white",
+             hc.order = T)
+
+
+
+
+
+```
+```{r Data Modelling}
+
+
+```
+

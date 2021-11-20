@@ -1,0 +1,2081 @@
+,kind,link,name,pitch,joined,location,market,size,stage,raised,website,years,annual_raised,raised_2mil,raised_12mil,size_numeric,followers,following,tweets
+0,Startup,https://angel.co/company/drchrono,DrChrono,"
+On a mission to fix healthcare
+",2/1/2011,Sunnyvale,Medical Devices,51-200,Series A,48725000,drchrono.com,9.317808219,5229234.049,1,1,125,9659,10604,8087
+1,Startup,https://angel.co/company/classpass,ClassPass,"
+One app for the best fitness classes
+",7/1/2011,Sydney,Fitness,501-1000,Series C,84000000,classpass.com,8.906849315,9430944.325,1,1,750,31033,8157,58084
+2,Startup,https://angel.co/company/fabricgenomics,Fabric Genomics,"
+Global healthcare platform for genomics-driven precision medicine, proven AI algorithms
+",7/1/2013,Oakland,Bioinformatics,Nov-50,Series B,23000000,fabricgenomics.com,6.904109589,3331349.206,1,1,25,0,0,0
+3,Startup,https://angel.co/company/chewse,Chewse,"
+Provides hassle-free, locally-sourced, delicious food, delivered straight to your door
+",1/1/2012,Austin,Hospitality,51-200,Series B,16000000,chewse.com,8.402739726,1904140.854,1,1,125,1531,1313,1656
+4,Startup,https://angel.co/company/syapse,Syapse,"
+Powering precision medicine with insights from a global oncology network
+",2/1/2012,Radnor,Bioinformatics,51-200,Series C,59500000,syapse.com,8.317808219,7153326.746,1,1,125,1705,254,1676
+5,Startup,https://angel.co/company/lark-3,Lark,"
+Lark's AI digital care platform enables virtual management of diabetes and heart disease
+",6/1/2013,Silicon Valley,Consumer Electronics,51-200,Series C,71700000,lark.com,6.98630137,10262941.18,1,1,125,551,1546,6214
+6,Startup,https://angel.co/company/quest-analytics,Quest Analytics,"
+Powering the healthcare market with validated doctor data
+",4/1/2012,Kansas City,Big Data Analytics,51-200,Acquired,24125000,betterdoctor.com,8.153424658,2958879.368,1,1,125,0,0,0
+7,Startup,https://angel.co/company/benchling,Benchling,"
+Informatics platform to accelerate, measure, and forecast R&D from discovery through bioprocessing
+",8/1/2012,San Francisco,Synthetic Biology,51-200,Series C,61900000,benchling.com,7.819178082,7916433.076,1,1,125,6223,1959,3347
+8,Startup,https://angel.co/company/flatiron-health,Flatiron Health,"
+ Accelerating cancer research and improving patient care
+",9/1/2012,New York City,Health Care Information Technology,501-1000,Series A,328000000,flatiron.com,7.734246575,42408784.98,1,1,750,0,0,0
+9,Startup,https://angel.co/company/gauss-surgical-1,Gauss Surgical,"
+AI-Enabled Platform for Surgery
+",9/1/2013,Menlo Park,Computer Vision,Nov-50,Series C,38026000,gausssurgical.com,6.734246575,5646659.886,1,1,25,0,0,0
+10,Startup,https://angel.co/company/humanapi,Human API,"
+The easiest way for consumers to connect & share health data with any company
+",5/1/2013,San Mateo,Real Time,Nov-50,Series A,16624982,humanapi.co,7.071232877,2351072.619,1,1,25,0,0,0
+11,Startup,https://angel.co/company/ubiome,uBiome,"
+Big Data from Bacteria
+",3/1/2013,San Francisco,Big Data,201-500,Series C,104500000,ubiome.com,7.238356164,14436979.56,1,1,350,32334,18387,6351
+12,Startup,https://angel.co/company/act-md,Activate Care,"
+It takes a community
+",8/1/2014,Boston,Health Care Information Technology,Nov-50,Series A,8400000,activatecare.com,5.819178082,1443502.825,1,0,25,0,0,0
+13,Startup,https://angel.co/company/bright-md,Bright.md,"
+Automating $150 billion of care delivery
+",12/1/2013,Portland,Mobile Health,Nov-50,Series B,11500000,bright.md,6.484931507,1773341.783,1,0,25,0,0,0
+14,Startup,https://angel.co/company/amino-inc,Amino,"
+Amino is a healthcare financial wellness benefit for mid-sized and large employers
+",4/1/2014,San Francisco,Small and Medium Businesses,Nov-50,Seed,46150000,amino.com,6.153424658,7499888.691,1,1,25,0,0,0
+15,Startup,https://angel.co/company/whoop,WHOOP,"
+Whoop is a performance optimization system for elite athletes and teams
+",7/1/2015,Boston,Fitness,51-200,Series C,47000000,whoop.com,4.904109589,9583798.883,1,1,125,20161,248,10917
+16,Startup,https://angel.co/company/docsapp,DocsApp,"
+Making quality healthcare easily accessible to over a billion people! 
+",10/1/2015,Bengaluru,Artificial Intelligence,201-500,Series A,8400000,docsapp.in,4.652054795,1805653.71,1,0,350,23,67,94
+17,Startup,https://angel.co/company/virta-health,Virta Health,"
+The first and only clinically-proven treatment to reverse type 2 diabetes w/o drugs or surgery
+",4/1/2016,San Francisco,Healthcare,51-200,Series C,175000000,virtahealth.com,4.150684932,42161716.17,1,1,125,0,0,0
+18,Startup,https://angel.co/company/titanfile,TitanFile,"
+The easiest and most comprehensive way to correspond and share files in total security
+",5/1/2011,Toronto,Insurance,10-Jan,Seed,1350000,titanfile.com,9.073972603,148777.1739,0,0,5,754,625,2171
+19,Startup,https://angel.co/company/cureatr,Cureatr,"
+Mobile Care Coordination
+",6/1/2014,New York City,Health Care Information Technology,Nov-50,Series A,6125000,cureatr.com,5.98630137,1023169.336,1,0,25,556,428,943
+20,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+21,Startup,https://angel.co/company/agilemd,AgileMD,"
+EHR-integrated pathways, analytics, and scoring tools
+",3/1/2012,San Francisco,Health Care Information Technology,10-Jan,Seed,2500000,agilemd.com,8.238356164,303458.5966,1,0,5,482,95,233
+22,Startup,https://angel.co/company/digitalmr,DigitalMR,"
+Next Generation Market Research
+",3/1/2014,London,Fast-Moving Consumer Goods,Nov-50,Seed,1020000,digital-mr.com,6.238356164,163504.6113,0,0,25,4563,4298,6113
+23,Startup,https://angel.co/company/happier,Happier,"
+Focusing on the positive and staying connected to people you care about makes you happier
+",1/1/2013,Boston,Personal Health,10-Jan,Seed,4400000,happier.com,7.4,594594.5946,1,0,5,14416,857,9799
+24,Startup,https://angel.co/company/meludia,Meludia,"
+Musical Brain Training
+",8/1/2013,Paris,Music Education,Nov-50,Seed,888350,meludia.com,6.819178082,130272.2981,0,0,25,0,3,3
+25,Startup,https://angel.co/company/tute-genomics,Tute Genomics,"
+Cloud-based Genome Analysis for Precision Medicine
+",3/1/2013,Provo,Startups,Nov-50,Acquired,7700000,tutegenomics.com,7.238356164,1063777.441,1,0,25,0,0,0
+26,Startup,https://angel.co/company/seratis,Seratis,"
+Team transparency platform enabling care coordination for healthcare providers
+",4/1/2013,Boston,Communications Infrastructure,10-Jan,Acquired,890000,seratis.com,7.153424658,124415.9326,0,0,5,1,0,2
+27,Startup,https://angel.co/company/solvebio,SolveBio,"
+Genomic Intelligence Platform
+",11/1/2013,New York City,Bioinformatics,10-Jan,Seed,3900000,solvebio.com,6.567123288,593867.3342,1,0,5,9,0,1
+28,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+29,Startup,https://angel.co/company/dmetrics,dMetrics,"
+AI for everyone
+",9/1/2016,New York City,Machine Learning,Nov-50,Seed,7930000,dmetrics.com,3.731506849,2125146.843,1,0,25,1,6,4
+30,Startup,https://angel.co/company/infermedica,Infermedica,"
+AI-driven digital health company specialized in tools for preliminary diagnosis and triage
+",9/1/2013,Wroc?Çaw,Mobile Health,51-200,Seed,3650000,infermedica.com,6.734246575,542005.6957,1,0,125,2614,1241,1002
+31,Startup,https://angel.co/company/mahmee,Mahmee,"
+Mapping the Maternal Healthcare Ecosystem
+",10/1/2015,Los Angeles,Women-Focused,Nov-50,Seed,4005000,mahmee.com,4.652054795,860909.894,1,0,25,21,38,881
+32,Startup,https://angel.co/company/ava-me,Ava Accessibility,"
+Live subtitles for any conversation. enjoy 24/7 access to conversations around you
+",3/1/2014,San Francisco,Communications Hardware,Nov-50,-,1845000,ava.me,6.238356164,295750.9881,0,0,25,0,0,0
+33,Startup,https://angel.co/company/careskore-1,CareSkore,"
+Personalized Population Health Management
+",1/1/2015,San Francisco,Predictive Analytics,Nov-50,Seed,4300000,careskore.com,5.4,796296.2963,1,0,25,353,906,1296
+34,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+35,Startup,https://angel.co/company/zenysis,Zenysis,"
+Advanced analytics for developing countries
+",3/1/2016,San Francisco,International Development,Nov-50,Series A,8003365,zenysis.com,4.235616438,1889539.602,1,0,25,254,288,131
+36,Startup,https://angel.co/company/titanfile,TitanFile,"
+The easiest and most comprehensive way to correspond and share files in total security
+",5/1/2011,Toronto,Insurance,10-Jan,Seed,1350000,titanfile.com,9.073972603,148777.1739,0,0,5,754,625,2171
+37,Startup,https://angel.co/company/cureatr,Cureatr,"
+Mobile Care Coordination
+",6/1/2014,New York City,Health Care Information Technology,Nov-50,Series A,6125000,cureatr.com,5.98630137,1023169.336,1,0,25,556,428,943
+38,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+39,Startup,https://angel.co/company/agilemd,AgileMD,"
+EHR-integrated pathways, analytics, and scoring tools
+",3/1/2012,San Francisco,Health Care Information Technology,10-Jan,Seed,2500000,agilemd.com,8.238356164,303458.5966,1,0,5,482,95,233
+40,Startup,https://angel.co/company/digitalmr,DigitalMR,"
+Next Generation Market Research
+",3/1/2014,London,Fast-Moving Consumer Goods,Nov-50,Seed,1020000,digital-mr.com,6.238356164,163504.6113,0,0,25,4563,4298,6113
+41,Startup,https://angel.co/company/happier,Happier,"
+Focusing on the positive and staying connected to people you care about makes you happier
+",1/1/2013,Boston,Personal Health,10-Jan,Seed,4400000,happier.com,7.4,594594.5946,1,0,5,14416,857,9799
+42,Startup,https://angel.co/company/meludia,Meludia,"
+Musical Brain Training
+",8/1/2013,Paris,Music Education,Nov-50,Seed,888350,meludia.com,6.819178082,130272.2981,0,0,25,0,3,3
+43,Startup,https://angel.co/company/tute-genomics,Tute Genomics,"
+Cloud-based Genome Analysis for Precision Medicine
+",3/1/2013,Provo,Startups,Nov-50,Acquired,7700000,tutegenomics.com,7.238356164,1063777.441,1,0,25,0,0,0
+44,Startup,https://angel.co/company/seratis,Seratis,"
+Team transparency platform enabling care coordination for healthcare providers
+",4/1/2013,Boston,Communications Infrastructure,10-Jan,Acquired,890000,seratis.com,7.153424658,124415.9326,0,0,5,1,0,2
+45,Startup,https://angel.co/company/solvebio,SolveBio,"
+Genomic Intelligence Platform
+",11/1/2013,New York City,Bioinformatics,10-Jan,Seed,3900000,solvebio.com,6.567123288,593867.3342,1,0,5,9,0,1
+46,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+47,Startup,https://angel.co/company/dmetrics,dMetrics,"
+AI for everyone
+",9/1/2016,New York City,Machine Learning,Nov-50,Seed,7930000,dmetrics.com,3.731506849,2125146.843,1,0,25,1,6,4
+48,Startup,https://angel.co/company/infermedica,Infermedica,"
+AI-driven digital health company specialized in tools for preliminary diagnosis and triage
+",9/1/2013,Wroc?Çaw,Mobile Health,51-200,Seed,3650000,infermedica.com,6.734246575,542005.6957,1,0,125,2614,1241,1002
+49,Startup,https://angel.co/company/mahmee,Mahmee,"
+Mapping the Maternal Healthcare Ecosystem
+",10/1/2015,Los Angeles,Women-Focused,Nov-50,Seed,4005000,mahmee.com,4.652054795,860909.894,1,0,25,21,38,881
+50,Startup,https://angel.co/company/ava-me,Ava Accessibility,"
+Live subtitles for any conversation. enjoy 24/7 access to conversations around you
+",3/1/2014,San Francisco,Communications Hardware,Nov-50,-,1845000,ava.me,6.238356164,295750.9881,0,0,25,0,0,0
+51,Startup,https://angel.co/company/careskore-1,CareSkore,"
+Personalized Population Health Management
+",1/1/2015,San Francisco,Predictive Analytics,Nov-50,Seed,4300000,careskore.com,5.4,796296.2963,1,0,25,353,906,1296
+52,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+53,Startup,https://angel.co/company/zenysis,Zenysis,"
+Advanced analytics for developing countries
+",3/1/2016,San Francisco,International Development,Nov-50,Series A,8003365,zenysis.com,4.235616438,1889539.602,1,0,25,254,288,131
+54,Startup,https://angel.co/company/titanfile,TitanFile,"
+The easiest and most comprehensive way to correspond and share files in total security
+",5/1/2011,Toronto,Insurance,10-Jan,Seed,1350000,titanfile.com,9.073972603,148777.1739,0,0,5,754,625,2171
+55,Startup,https://angel.co/company/cureatr,Cureatr,"
+Mobile Care Coordination
+",6/1/2014,New York City,Health Care Information Technology,Nov-50,Series A,6125000,cureatr.com,5.98630137,1023169.336,1,0,25,556,428,943
+56,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+57,Startup,https://angel.co/company/agilemd,AgileMD,"
+EHR-integrated pathways, analytics, and scoring tools
+",3/1/2012,San Francisco,Health Care Information Technology,10-Jan,Seed,2500000,agilemd.com,8.238356164,303458.5966,1,0,5,482,95,233
+58,Startup,https://angel.co/company/digitalmr,DigitalMR,"
+Next Generation Market Research
+",3/1/2014,London,Fast-Moving Consumer Goods,Nov-50,Seed,1020000,digital-mr.com,6.238356164,163504.6113,0,0,25,4563,4298,6113
+59,Startup,https://angel.co/company/happier,Happier,"
+Focusing on the positive and staying connected to people you care about makes you happier
+",1/1/2013,Boston,Personal Health,10-Jan,Seed,4400000,happier.com,7.4,594594.5946,1,0,5,14416,857,9799
+60,Startup,https://angel.co/company/meludia,Meludia,"
+Musical Brain Training
+",8/1/2013,Paris,Music Education,Nov-50,Seed,888350,meludia.com,6.819178082,130272.2981,0,0,25,0,3,3
+61,Startup,https://angel.co/company/tute-genomics,Tute Genomics,"
+Cloud-based Genome Analysis for Precision Medicine
+",3/1/2013,Provo,Startups,Nov-50,Acquired,7700000,tutegenomics.com,7.238356164,1063777.441,1,0,25,0,0,0
+62,Startup,https://angel.co/company/seratis,Seratis,"
+Team transparency platform enabling care coordination for healthcare providers
+",4/1/2013,Boston,Communications Infrastructure,10-Jan,Acquired,890000,seratis.com,7.153424658,124415.9326,0,0,5,1,0,2
+63,Startup,https://angel.co/company/solvebio,SolveBio,"
+Genomic Intelligence Platform
+",11/1/2013,New York City,Bioinformatics,10-Jan,Seed,3900000,solvebio.com,6.567123288,593867.3342,1,0,5,9,0,1
+64,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+65,Startup,https://angel.co/company/dmetrics,dMetrics,"
+AI for everyone
+",9/1/2016,New York City,Machine Learning,Nov-50,Seed,7930000,dmetrics.com,3.731506849,2125146.843,1,0,25,1,6,4
+66,Startup,https://angel.co/company/infermedica,Infermedica,"
+AI-driven digital health company specialized in tools for preliminary diagnosis and triage
+",9/1/2013,Wroc?Çaw,Mobile Health,51-200,Seed,3650000,infermedica.com,6.734246575,542005.6957,1,0,125,2614,1241,1002
+67,Startup,https://angel.co/company/mahmee,Mahmee,"
+Mapping the Maternal Healthcare Ecosystem
+",10/1/2015,Los Angeles,Women-Focused,Nov-50,Seed,4005000,mahmee.com,4.652054795,860909.894,1,0,25,21,38,881
+68,Startup,https://angel.co/company/ava-me,Ava Accessibility,"
+Live subtitles for any conversation. enjoy 24/7 access to conversations around you
+",3/1/2014,San Francisco,Communications Hardware,Nov-50,-,1845000,ava.me,6.238356164,295750.9881,0,0,25,0,0,0
+69,Startup,https://angel.co/company/careskore-1,CareSkore,"
+Personalized Population Health Management
+",1/1/2015,San Francisco,Predictive Analytics,Nov-50,Seed,4300000,careskore.com,5.4,796296.2963,1,0,25,353,906,1296
+70,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+71,Startup,https://angel.co/company/zenysis,Zenysis,"
+Advanced analytics for developing countries
+",3/1/2016,San Francisco,International Development,Nov-50,Series A,8003365,zenysis.com,4.235616438,1889539.602,1,0,25,254,288,131
+72,Startup,https://angel.co/company/dna-guide,DNA Guide,"
+Mapping the Genome
+",8/1/2011,San Francisco,Bioinformatics,10-Jan,Seed,25000,dnaguide.com,8.821917808,2833.850932,0,0,5,0,0,0
+73,Startup,https://angel.co/company/handle-my-health,Handle My Health,"
+Reclaim your health
+",6/1/2012,London,Internet of Things,10-Jan,Acquired,404882,handlemyhealth.com,7.98630137,50697.06003,0,0,5,0,0,0
+74,Startup,https://angel.co/company/treatspace,Treatspace,"
+Enterprise health networks for practices and hospitals
+",2/1/2014,Pittsburgh,Mobile Health,10-Jan,Seed,25000,treatspace.com,6.315068493,3958.785249,0,0,5,560,433,500
+75,Startup,https://angel.co/company/sweatguru,SweatGuru,"
+Bringing people together around fitness 
+",10/1/2012,San Francisco,Fitness,10-Jan,Seed,500000,sweatguru.com,7.652054795,65341.92624,0,0,5,0,0,0
+76,Startup,https://angel.co/company/i-deed-it,I Deed It,"
+creative platform for employee engagement
+",1/1/2013,Sofia,Human Resources,10-Jan,Seed,95000,ideedit.com,7.4,12837.83784,0,0,5,0,0,0
+77,Startup,https://angel.co/company/open-health-network,Open Health Network,"
+Powered by AI,Big Data & Blockchain Patient Experience Management Platform
+",3/1/2013,Los Altos,Mobile Health,Nov-50,Pre-Seed,500000,openhealth.cc,7.238356164,69076.45723,0,0,25,0,0,0
+78,Startup,https://angel.co/company/klinify,klinify,"
+Digital Medical Assistant 
+",2/1/2013,Singapore,Mobile Health,Nov-50,Acquired,605000,klinify.com,7.315068493,82705.99251,0,0,25,207,892,431
+79,Startup,https://angel.co/company/rippedathlete,RippedAthlete,"
+Custom Weekly Meal Plans and Shopping Lists
+",3/1/2013,New York City,Fitness,10-Jan,Seed,10000,rippedathlete.com,7.238356164,1381.529145,0,0,5,8,7,8
+80,Startup,https://angel.co/company/insample,InSample,"
+Intelligence for Health Outcomes
+",3/1/2013,San Francisco,SaaS,10-Jan,Seed,50000,insample.com,7.238356164,6907.645723,0,0,5,0,1,15
+81,Startup,https://angel.co/company/you-app,Fifth Corner Inc.,"
+Wellbeing and performance coaching for modern organizations
+",3/1/2013,Helsinki,B2B,10-Jan,Seed,550000,fifthcornerinc.com,7.238356164,75984.10295,0,0,5,0,0,0
+82,Startup,https://angel.co/company/operating-analytics,Operating Analytics,"
+Forecasting SaaS to help hospitals do more surgeries
+",3/1/2013,Cambridge,Hospitals,10-Jan,Seed,50000,operatinganalytics.com,7.238356164,6907.645723,0,0,5,0,0,0
+83,Startup,https://angel.co/company/protocolsioplatform,protocols.io,"
+The #1 platform for designing and publishing science methods
+",4/1/2013,Berkeley,Biotechnology,Nov-50,Seed,780000,protocols.io,7.153424658,109038.6825,0,0,25,0,0,0
+84,Startup,https://angel.co/company/lynxfit,LynxFit (Pivot),"
+EXPERT & DATA DRIVEN FITNESS
+",10/1/2013,Washington DC,Fitness,10-Jan,Seed,70000,lynxfit.com,6.652054795,10523.06425,0,0,5,0,0,0
+85,Startup,https://angel.co/company/swan-sleep-solutions,SWAN Sleep Solutions,"
+Corporate Wellness Rests on Sleep
+",12/1/2013,Mountain View,Corporate Wellness,10-Jan,Seed,100000,SwanMedical.com,6.484931507,15420.36333,0,0,5,0,0,0
+86,Startup,https://angel.co/company/nuvenote,Nuvenote,"
+Intuitive appointment notes for doctors
+",2/1/2014,Paris,Mobile Health,10-Jan,Seed,50000,nuvenote.com,6.315068493,7917.570499,0,0,5,149,470,986
+87,Startup,https://angel.co/company/zakipoint-health,zakipoint health,"
+improve value from healthcare program spend for self-funded employers
+",2/1/2014,Cambridge,Big Data Analytics,10-Jan,Seed,610000,zakipointhealth.com,6.315068493,96594.36009,0,0,5,0,0,0
+88,Startup,https://angel.co/company/superdoc-app-ask-a-doctor,Superdoc,"
+Instant Doctor Chat 24*7 for taboo issues related to sexual & mental health
+",8/1/2015,San Francisco,Mobile Health,Nov-50,Seed,62000,play.google.com,4.819178082,12865.26435,0,0,25,10,0,12
+89,Startup,https://angel.co/company/drchrono,DrChrono,"
+On a mission to fix healthcare
+",2/1/2011,Sunnyvale,Medical Devices,51-200,Series A,48725000,drchrono.com,9.317808219,5229234.049,1,1,125,9659,10604,8087
+90,Startup,https://angel.co/company/classpass,ClassPass,"
+One app for the best fitness classes
+",7/1/2011,Sydney,Fitness,501-1000,Series C,84000000,classpass.com,8.906849315,9430944.325,1,1,750,31033,8157,58084
+91,Startup,https://angel.co/company/fabricgenomics,Fabric Genomics,"
+Global healthcare platform for genomics-driven precision medicine, proven AI algorithms
+",7/1/2013,Oakland,Bioinformatics,Nov-50,Series B,23000000,fabricgenomics.com,6.904109589,3331349.206,1,1,25,0,0,0
+92,Startup,https://angel.co/company/chewse,Chewse,"
+Provides hassle-free, locally-sourced, delicious food, delivered straight to your door
+",1/1/2012,Austin,Hospitality,51-200,Series B,16000000,chewse.com,8.402739726,1904140.854,1,1,125,1531,1313,1656
+93,Startup,https://angel.co/company/syapse,Syapse,"
+Powering precision medicine with insights from a global oncology network
+",2/1/2012,Radnor,Bioinformatics,51-200,Series C,59500000,syapse.com,8.317808219,7153326.746,1,1,125,1705,254,1676
+94,Startup,https://angel.co/company/omada-health-1,Omada Health,"
+Omada¬Æ empowers people to achieve their health goals, one step at a time
+",9/1/2013,San Francisco,Therapeutics,201-500,Series C,71000000,omadahealth.com,6.734246575,10543124.49,1,1,350,0,0,0
+95,Startup,https://angel.co/company/lark-3,Lark,"
+Lark's AI digital care platform enables virtual management of diabetes and heart disease
+",6/1/2013,Silicon Valley,Consumer Electronics,51-200,Series C,71700000,lark.com,6.98630137,10262941.18,1,1,125,551,1546,6214
+96,Startup,https://angel.co/company/myfitnesspal,MyFitnessPal,"
+Nutrition and fitness tracking
+",4/1/2012,San Francisco,Fitness,51-200,Acquired,18000000,myfitnesspal.com,8.153424658,2207661.29,1,1,125,183728,80,13022
+97,Startup,https://angel.co/company/onehealth-solutions,OneHealth Solutions,"
+Social peer support platform to improve health outcomes
+",5/1/2012,Solana Beach,Social Media Platforms,Nov-50,Acquired,16000000,onehealth.com,8.071232877,1982348.948,1,1,25,0,0,0
+98,Startup,https://angel.co/company/humanapi,Human API,"
+The easiest way for consumers to connect & share health data with any company
+",5/1/2013,San Mateo,Real Time,Nov-50,Series A,16624982,humanapi.co,7.071232877,2351072.619,1,1,25,0,0,0
+99,Startup,https://angel.co/company/babyscripts-by-1eq,Babyscripts,"
+Virtual Care for Obstetrics
+",3/1/2013,Washington DC,Hospitals,Nov-50,Series A,19000000,babyscripts.com,7.238356164,2624905.375,1,1,25,748,483,1078
+100,Startup,https://angel.co/company/kinsa,Kinsa,"
+The world's smartest thermometer
+",4/1/2013,San Francisco,Mobile Health,Nov-50,Series B,28600000,kinsahealth.com,7.153424658,3998085.025,1,1,25,15238,3484,8420
+101,Startup,https://angel.co/company/station-x,Station X,"
+Decoding genomes for better healthcare
+",10/1/2013,San Francisco,Diagnostics,Nov-50,Series A,15875000,stationxinc.com,6.652054795,2386480.643,1,1,25,0,0,0
+102,Startup,https://angel.co/company/soothe,Soothe,"
+Massage Delivered To You
+",6/1/2014,Los Angeles,,10-Jan,Series B,47300000,soothe.com,5.98630137,7901372.998,1,1,5,4635,1871,5148
+103,Startup,https://angel.co/company/amino-inc,Amino,"
+Amino is a healthcare financial wellness benefit for mid-sized and large employers
+",4/1/2014,San Francisco,Small and Medium Businesses,Nov-50,Seed,46150000,amino.com,6.153424658,7499888.691,1,1,25,0,0,0
+104,Startup,https://angel.co/company/whoop,WHOOP,"
+Whoop is a performance optimization system for elite athletes and teams
+",7/1/2015,Boston,Fitness,51-200,Series C,47000000,whoop.com,4.904109589,9583798.883,1,1,125,20163,248,10917
+105,Startup,https://angel.co/company/heal,Every.org,"
+On-demand doctor house calls
+",10/1/2014,-,Sharing Economy,51-200,Series B,48200000,heal.com,5.652054795,8527872.031,1,1,125,0,0,0
+106,Startup,https://angel.co/company/luma-health,Luma Health,"
+Total patient engagement with Luma Health
+",3/1/2015,San Francisco,Doctors,51-200,-,29100000,lumahealth.io,5.238356164,5555177.824,1,1,125,0,0,0
+107,Startup,https://angel.co/company/cureatr,Cureatr,"
+Mobile Care Coordination
+",6/1/2014,New York City,Health Care Information Technology,Nov-50,Series A,6125000,cureatr.com,5.98630137,1023169.336,1,0,25,556,428,943
+108,Startup,https://angel.co/company/carelinx,CareLinx,"
+Caregiver Marketplace:  Disrupting the $100B+ in-home care market. AARP Winner!
+",5/1/2012,San Francisco,Baby Boomers,10-Jan,Acquired,7000000,carelinx.com,8.071232877,867277.6646,1,0,5,4877,5352,3942
+109,Startup,https://angel.co/company/fit3d,Fit3D,"
+Using 3D scanners, resulting data, and predictive AI solutions to solve massive problems
+",2/1/2013,San Mateo,Fitness,Nov-50,Seed,5390000,fit3d.com,7.315068493,736835.206,1,0,25,1447,3944,1513
+110,Startup,https://angel.co/company/acupera,Acupera,"
+Population Health Platform
+",3/1/2013,San Francisco,Health Care Information Technology,Nov-50,Series A,4000000,acupera.com,7.238356164,552611.6578,1,0,25,131,337,648
+111,Startup,https://angel.co/company/rubiconmd,RubiconMD,"
+Expert insights and better care. eConsults that connect clinicians to top specialists
+",3/1/2013,New York City,Mobile Health,Nov-50,Series A,5300000,rubiconmd.com,7.238356164,732210.4466,1,0,25,6,35,0
+112,Startup,https://angel.co/company/transitscreen,TransitScreen,"
+Helping corporate workplaces enhance the commute experience
+",5/1/2013,Washington DC,Corporate Wellness,Nov-50,Closed,4475000,transitscreen.com,7.071232877,632845.7962,1,0,25,4412,433,9300
+113,Startup,https://angel.co/company/wecounsel,WeCounsel,"
+Telemedicine Software Service With An Emphasis In Mental Health
+",5/1/2013,Chattanooga,Mental Health,10-Jan,Series A,4400000,wecounsel.com,7.071232877,622239.4421,1,0,5,1512,1616,2717
+114,Startup,https://angel.co/company/livesafe,LiveSafe,"
+",9/1/2013,-,Sports Stadiums,Nov-50,Series A,15750000,livesafemobile.com,6.734246575,2338791.701,1,1,25,2282,1094,4117
+115,Startup,https://angel.co/company/madaket-health,Madaket Health,"
+Connecting healthcare providers, insurance companies and intermediaries
+",12/1/2014,Cambridge,B2B,Nov-50,Series B,10000000,madakethealth.com,5.484931507,1823176.823,1,0,25,0,0,0
+116,Startup,https://angel.co/company/opternative,Visibly,"
+The most convenient way to get a prescription for glasses or contacts
+",8/1/2013,Chicago,Eyewear,Nov-50,Series A,9100000,govisibly.com,6.819178082,1334471.675,1,0,25,1,1,0
+117,Startup,https://angel.co/company/solvebio,SolveBio,"
+Genomic Intelligence Platform
+",11/1/2013,New York City,Bioinformatics,10-Jan,Seed,3900000,solvebio.com,6.567123288,593867.3342,1,0,5,9,0,1
+118,Startup,https://angel.co/company/volt-athletics,Volt Athletics,"
+The first performance training AI for everyone
+",9/1/2013,Seattle,Fitness,Nov-50,Seed,3791474,voltathletics.com,6.734246575,563013.8365,1,0,25,0,0,0
+119,Startup,https://angel.co/company/bright-md,Bright.md,"
+Automating $150 billion of care delivery
+",12/1/2013,Portland,Mobile Health,Nov-50,Series B,11500000,bright.md,6.484931507,1773341.783,1,0,25,0,0,0
+120,Startup,https://angel.co/company/erelevance,eRelevance,"
+Progressive Patient Engagement Service for Healthcare Providers
+",1/1/2014,Austin,Health Care Information Technology,10-Jan,Seed,7200000,erelevencecorp.com,6.4,1125000,1,0,5,0,0,0
+121,Startup,https://angel.co/company/doctible,Doctible,"
+Helping private practices to grow and thrive by driving patient retention
+",1/1/2014,San Diego,SaaS,51-200,Seed,4200000,doctible.com,6.4,656250,1,0,125,474,212,503
+122,Startup,https://angel.co/company/8fit,8fit,"
+Building healthy habits for life
+",2/1/2014,Berlin,Fitness,51-200,Series A,9500000,8fit.com,6.315068493,1504338.395,1,0,125,3989,557,3580
+123,Startup,https://angel.co/company/docsapp,DocsApp,"
+Making quality healthcare easily accessible to over a billion people! 
+",10/1/2015,Bengaluru,Artificial Intelligence,201-500,Series A,8400000,docsapp.in,4.652054795,1805653.71,1,0,350,23,67,94
+124,Startup,https://angel.co/company/chai,Chai,"
+A biological testing lab on your desktop
+",12/1/2014,Santa Clara,Medical Devices,Nov-50,Seed,5000000,chaibio.com,5.484931507,911588.4116,1,0,25,338,209,7743
+125,Startup,https://angel.co/company/peerwell,PeerWell,"
+Surgery Optimization Platform for Musculoskeletal Health
+",2/1/2015,Austin,Medical Technologies,Nov-50,Series A,8600000,peerwell.co,5.315068493,1618041.237,1,0,25,1087,600,1399
+126,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+127,Startup,https://angel.co/company/titanfile,TitanFile,"
+The easiest and most comprehensive way to correspond and share files in total security
+",5/1/2011,Toronto,Insurance,10-Jan,Seed,1350000,titanfile.com,9.073972603,148777.1739,0,0,5,754,625,2171
+128,Startup,https://angel.co/company/care-at-hand,Care at Hand,"
+Predictive Analytics Powered by Non-medical Staff
+",11/1/2011,San Francisco,Mobile Health,10-Jan,Acquired,1350000,careathand.com,8.569863014,157528.7724,0,0,5,0,0,0
+129,Startup,https://angel.co/company/dorsata,Dorsata,"
+Driving better clinical decisions that are informed by patient data and best practices
+",10/1/2013,Washington DC,Health Care Information Technology,10-Jan,Seed,1745000,dorsata.com,6.652054795,262324.9588,0,0,5,7,0,8
+130,Startup,https://angel.co/company/watsi,Watsi,"
+Building technology to finance healthcare for everyone
+",7/1/2013,Remote,Crowdfunding,Nov-50,Seed,1200000,watsi.org,6.904109589,173809.5238,0,0,25,7391,1091,5698
+131,Startup,https://angel.co/company/digitalmr,DigitalMR,"
+Next Generation Market Research
+",3/1/2014,London,Fast-Moving Consumer Goods,Nov-50,Seed,1020000,digital-mr.com,6.238356164,163504.6113,0,0,25,4563,4298,6113
+132,Startup,https://angel.co/company/nurep,Nurep,"
+Telesurgery - Stanford StartX Med
+",3/1/2013,Palo Alto,Medical Devices,10-Jan,Seed,1800000,nurep.com,7.238356164,248675.246,0,0,5,7,1,0
+133,Startup,https://angel.co/company/crowdmed,CrowdMed,"
+CrowdMed empowers anyone to solve medical mysteries
+",10/1/2012,San Francisco,Crowdsourcing,10-Jan,Seed,3145000,crowdmed.com,7.652054795,411000.7161,1,0,5,0,0,0
+134,Startup,https://angel.co/company/movecoach,Runcoach,"
+The real person app
+",12/1/2012,Burlingame,Corporate Wellness,Nov-50,Seed,1000000,runcoach.com,7.484931507,133601.757,0,0,25,2,1,0
+135,Startup,https://angel.co/company/benefitter,Benefitter,"
+Fidelity for Healthcare
+",11/1/2012,San Francisco,Insurance,Nov-50,Seed,2700000,benefitter.com,7.567123288,356806.6618,1,0,25,205,110,250
+136,Startup,https://angel.co/company/sense-health,Sense Health,"
+Smart communication designed for healthcare
+",12/1/2012,New York City,Mobile Health,Nov-50,Seed,2000000,sensehealth.com,7.484931507,267203.5139,0,0,25,0,0,0
+137,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+138,Startup,https://angel.co/company/telepharm,TelePharm,"
+Telemedicine platform for pharmacies (and everyone)
+",10/1/2013,Iowa City,Video Chat,Nov-50,-,2500000,telepharm.com,6.652054795,375823.7232,1,0,25,4,0,0
+139,Startup,https://angel.co/company/goodmouth,GoodMouth,"
+Oral Care. Delivered
+",6/1/2014,New York City,Subscription Businesses,10-Jan,Seed,1005000,goodmouth.com,5.98630137,167883.2952,0,0,5,3,2,15
+140,Startup,https://angel.co/company/amstatz,amSTATZ,"
+Cloud-based software for personal trainers and studios
+",2/1/2014,Chicago,Fitness,Nov-50,Seed,1450000,amstatz.com,6.315068493,229609.5445,0,0,25,833,360,2519
+141,Startup,https://angel.co/company/iscribes,iScribes,"
+Medical documentation for the modern physician
+",7/1/2015,Durham,SaaS,51-200,Seed,1040000,iscribes.co,4.904109589,212067.0391,0,0,125,2,16,5
+142,Startup,https://angel.co/company/nursegrid,NurseGrid,"
+Scheduling and Staffing Technology Built for Nurses
+",9/1/2014,Portland,Hospitals,Nov-50,Seed,3760000,nursegrid.com,5.734246575,655709.5079,1,0,25,4738,1740,9738
+143,Startup,https://angel.co/company/i-human-patients,i-Human Patients,"
+",3/1/2016,Sunnyvale,Education Technology,Nov-50,Series A,2000000,i-human.com,4.235616438,472186.2872,0,0,25,0,0,0
+144,Startup,https://angel.co/company/yosi,Yosi,"
+Digital patient engagement platform 
+",4/1/2015,New York City,Mobile Health,10-Jan,Pre-Seed,1250000,yosicare.com,5.153424658,242557.1505,0,0,5,666,760,9368
+145,Startup,https://angel.co/company/doctorbase-acquired-by-kareo,DoctorBase (acquired by Kareo),"
+Patient Engagement Software
+",12/1/2010,San Francisco,Heathcare,Nov-50,Seed,1000000,DoctorBase.com,9.487671233,105399.9422,0,0,25,0,0,0
+146,Startup,https://angel.co/company/datagenno,DataGenno,"
+Portal for health care professionals and patients
+",3/1/2011,Chicago,Pharmaceuticals,10-Jan,Seed,600000,datagenno.com,9.24109589,64927.36436,0,0,5,61,34,1
+147,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+148,Startup,https://angel.co/company/improve,Improve,"
+Online Marketplace for Fitness & Tennis Training
+",11/1/2011,Austin,Fitness,Nov-50,Seed,650000,fitnesstrainer.com,8.569863014,75847.1867,0,0,25,14,0,1
+149,Startup,https://angel.co/company/umbie-dentalcare,Umbie DentalCare,"
+We deliver office management, practice accountability,  and patient engagement solutions
+",11/1/2011,East Hartford,Mobile Health,10-Jan,-,685000,umbiedentalcare.com,8.569863014,79931.26598,0,0,5,0,0,0
+150,Startup,https://angel.co/company/clickcare,ClickCare,"
+Simple, secure, spectacular hybrid store and forward telemedicine
+",3/1/2012,Binghamton,mHealth,10-Jan,Seed,500000,clickcare.com,8.238356164,60691.71932,0,0,5,1277,2003,4538
+151,Startup,https://angel.co/company/sweatguru,SweatGuru,"
+Bringing people together around fitness 
+",10/1/2012,San Francisco,Fitness,10-Jan,Seed,500000,sweatguru.com,7.652054795,65341.92624,0,0,5,0,0,0
+152,Startup,https://angel.co/company/klinify,klinify,"
+Digital Medical Assistant 
+",2/1/2013,Singapore,Mobile Health,Nov-50,Acquired,605000,klinify.com,7.315068493,82705.99251,0,0,25,207,892,431
+153,Startup,https://angel.co/company/meludia,Meludia,"
+Musical Brain Training
+",8/1/2013,Paris,Music Education,Nov-50,Seed,888350,meludia.com,6.819178082,130272.2981,0,0,25,0,3,3
+154,Startup,https://angel.co/company/you-app,Fifth Corner Inc.,"
+Wellbeing and performance coaching for modern organizations
+",3/1/2013,Helsinki,B2B,10-Jan,Seed,550000,fifthcornerinc.com,7.238356164,75984.10295,0,0,5,0,0,0
+155,Startup,https://angel.co/company/image32,image32,"
+A disruptive approach to medical image sharing
+",3/1/2013,Menlo Park,Cloud Computing,10-Jan,Acquired,600000,image32.com,7.238356164,82891.74868,0,0,5,346,912,123
+156,Startup,https://angel.co/company/seratis,Seratis,"
+Team transparency platform enabling care coordination for healthcare providers
+",4/1/2013,Boston,Communications Infrastructure,10-Jan,Acquired,890000,seratis.com,7.153424658,124415.9326,0,0,5,1,0,2
+157,Startup,https://angel.co/company/protocolsioplatform,protocols.io,"
+The #1 platform for designing and publishing science methods
+",4/1/2013,Berkeley,Biotechnology,Nov-50,Seed,780000,protocols.io,7.153424658,109038.6825,0,0,25,0,0,0
+158,Startup,https://angel.co/company/luminate-health,Luminate Health,"
+Helping patients access and understand their lab results
+",2/1/2015,San Mateo,Digital Health,10-Jan,Seed,1000000,luminatehealth.com,5.315068493,188144.3299,0,0,5,0,0,0
+159,Startup,https://angel.co/company/biogeniq-1,BIOGENIQ,"
+Provide personalized medicine ecosystem
+",9/1/2013,Montreal,Nutrition,10-Jan,Seed,980000,BIOGENIQ.ca,6.734246575,145524.8169,0,0,5,375,394,507
+160,Startup,https://angel.co/company/zendyhealth,ZendyHealth,"
+Affordable health and dental care, made easy
+",10/1/2013,Los Angeles,Finance Technology,10-Jan,Seed,1000000,zendyhealth.com,6.652054795,150329.4893,0,0,5,3926,2667,1837
+161,Startup,https://angel.co/company/myhint,myHINT,"
+A tool to increase insurance sales
+",11/1/2013,New Brunswick,Health and Insurance,10-Jan,Seed,600000,myhint.co,6.567123288,91364.20526,0,0,5,1,1,30
+162,Startup,https://angel.co/company/special-learning-inc,"Special Learning, Inc.","
+We educate educators and parents on how to successfully teach kids with Autism
+",2/1/2015,Chicago,K-12 Education,Nov-50,Seed,575000,special-learning.com,5.315068493,108182.9897,0,0,25,0,0,0
+163,Startup,https://angel.co/company/mybesthelper,myBestHelper,"
+Find great child, elder and home care - people helping people :)
+",10/1/2012,North America,Families,10-Jan,Seed,375000,mybesthelper.com,7.652054795,49006.44468,0,0,5,1066,902,4678
+164,Startup,https://angel.co/company/speechtrans-1,SpeechTrans,"
+World's Most Advanced Language Translator
+",3/1/2012,Lyndhurst,SaaS,Nov-50,Seed,320000,speechtrans.com,8.238356164,38842.70037,0,0,25,7053,4450,129294
+165,Startup,https://angel.co/company/gipis,Gipis,"
+Personal training plans for runners
+",4/1/2012,-,Fitness,10-Jan,Seed,300000,gip.is,8.153424658,36794.35484,0,0,5,3,19,0
+166,Startup,https://angel.co/company/evinance,Evinance,"
+Personalized Decision Support for Doctors and Patients
+",8/1/2012,Montreal,Personal Health,10-Jan,Acquired,392000,evinance.com,7.819178082,50133.14646,0,0,5,27,25,38
+167,Startup,https://angel.co/company/vetcloud,VetCloud,"
+Using data to transform animal healthcare
+",9/1/2012,London,Cloud Management,10-Jan,Seed,400000,vetcloud.co,7.734246575,51718.03046,0,0,5,437,713,307
+168,Startup,https://angel.co/company/medko,Medko,"
+The World's Doctor-Patient Marketplace
+",10/1/2012,San Francisco,Doctors,10-Jan,Seed,250000,medkohealth.com,7.652054795,32670.96312,0,0,5,14,0,15
+169,Startup,https://angel.co/company/stillwater-supercomputing,Stillwater Supercomputing,"
+Personalized medicine platform
+",11/1/2012,San Jose,Bioinformatics,Nov-50,-,250000,stillwater-sc.com,7.567123288,33037.65387,0,0,25,0,0,0
+170,Startup,https://angel.co/company/etobb,eTobb,"
+Interactive health platform connecting patients & doctors
+",12/1/2012,Beirut,Mobile Health,Nov-50,Seed,326500,etobb.com,7.484931507,43620.97365,0,0,25,1,1,0
+171,Startup,https://angel.co/company/recovering-me,Recovering(me),"
+Khan Academy meets addiction treatment
+",1/1/2013,Lexington,Digital Media,10-Jan,Seed,180000,recoveringme.com,7.4,24324.32432,0,0,5,0,0,0
+172,Startup,https://angel.co/company/birdhouse,Birdhouse Health,"
+Technology, resources & support for the developmental disabilities community
+",1/1/2014,Michigan,Mobile Health,10-Jan,Acquired,500000,birdhousehq.com,6.4,78125,0,0,5,0,0,0
+173,Startup,https://angel.co/company/carevium-solutions-for-senior-living,Carevium - Solutions for Senior Living,"
+Empowering senior facilities, care givers and families
+",9/1/2013,Santa Clara,Elder Care,10-Jan,Seed,400000,carevium.com,6.734246575,59397.88446,0,0,5,0,0,0
+174,Startup,https://angel.co/company/aries-tco-1,Aries TCO,"
+WE HELP YOU GO FROM TECH IDEA TO TECH STARTUP
+",10/1/2013,Palm Beach Gardens,Small and Medium Businesses,10-Jan,Series A,360000,ariestco.com,6.652054795,54118.61614,0,0,5,0,0,0
+175,Startup,https://angel.co/company/tag-bio,Tag.bio,"
+DIY data science in healthtech
+",9/1/2014,San Francisco,Big Data Analytics,10-Jan,Seed,250000,tag.bio,5.734246575,43597.70664,0,0,5,0,0,0
+176,Startup,https://angel.co/company/sportconnect,SportConnect,"
+Engagement platform for sports influencers
+",8/1/2015,Palo Alto,Mobile Commerce,10-Jan,Seed,300000,sportconnect.com,4.819178082,62251.27914,0,0,5,259,81,421
+177,Startup,https://angel.co/company/covalentcareers,CovalentCareers,"
+Career development for healthcare professionals
+",3/1/2015,San Diego,Human Resources,Nov-50,Seed,200000,covalentcareers.com,5.238356164,38179.91632,0,0,25,382,399,1529
+178,Startup,https://angel.co/company/navialifecare,Navia Life Care,"
+AI-enabled voice assistant for doctors
+",9/1/2015,Delhi,Mobile Health,Nov-50,Seed,160000,navialifecare.com,4.734246575,33796.2963,0,0,25,0,0,0
+179,Startup,https://angel.co/company/gomotive-1,GoMotive,"
+Revolutionizing Rehab and Training
+",12/1/2015,Seattle,Fitness,10-Jan,Seed,225000,gomotive.com,4.484931507,50167.99023,0,0,5,118,122,217
+180,Startup,https://angel.co/company/acrinta,Acrinta,"
+Employee Wellness: Making it easier to live better
+",4/1/2012,Pittsburgh,Corporate Wellness,10-Jan,Seed,130000,acrinta.com,8.153424658,15944.22043,0,0,5,46,84,6
+181,Startup,https://angel.co/company/infometers,Infometers,"
+aggregates patient monitoring data, provides a standardized platform
+",4/1/2012,Sunnyvale,Mobile Health,10-Jan,Acquired,50000,Infometers.com,8.153424658,6132.392473,0,0,5,0,0,0
+182,Startup,https://angel.co/company/i-deed-it,I Deed It,"
+creative platform for employee engagement
+",1/1/2013,Sofia,Human Resources,10-Jan,Seed,95000,ideedit.com,7.4,12837.83784,0,0,5,0,0,0
+183,Startup,https://angel.co/company/kay-technologies,KAY Technologies,"
+Real-Time Human Physiology 
+",3/1/2013,Palo Alto,Quantified Self,10-Jan,Seed,50000,kaytechnologies.co,7.238356164,6907.645723,0,0,5,0,0,0
+184,Startup,https://angel.co/company/entrenaya,EntrenaYa,"
+Access to any class at any gym, paying for visit, or a flexible monthly subscription
+",4/1/2013,Buenos Aires Province,Fitness,10-Jan,Seed,50000,entrenaya.com,7.153424658,6989.659134,0,0,5,0,0,0
+185,Startup,https://angel.co/company/clicky-2,Clickypass,"
+Clickypass is a membership program for fitness classes and activities
+",2/1/2014,Miami,Fitness,Nov-50,Seed,125000,clickpass.com,6.315068493,19793.92625,0,0,25,0,0,0
+186,Startup,https://angel.co/company/lynxfit,LynxFit (Pivot),"
+EXPERT & DATA DRIVEN FITNESS
+",10/1/2013,Washington DC,Fitness,10-Jan,Seed,70000,lynxfit.com,6.652054795,10523.06425,0,0,5,0,0,0
+187,Startup,https://angel.co/company/dravailable-1,DrAvailable,"
+Rapid, Efficient access to Physicians 
+",11/1/2013,New York City,Doctors,10-Jan,Seed,100000,dravailable.com,6.567123288,15227.36754,0,0,5,0,4,0
+188,Startup,https://angel.co/company/medpac-technologies,MedPAC Technologies,"
+Web/mobile applications for Long-term and Post Acute Care
+",9/1/2014,New Albany,Hospitals,10-Jan,Seed,100000,medpactech.com,5.734246575,17439.08266,0,0,5,0,0,0
+189,Startup,https://angel.co/company/nuvenote,Nuvenote,"
+Intuitive appointment notes for doctors
+",2/1/2014,Paris,Mobile Health,10-Jan,Seed,50000,nuvenote.com,6.315068493,7917.570499,0,0,5,149,470,986
+190,Startup,https://angel.co/company/booking-social,Booking Social,"
+Appointment Management Software for any Industry(Platform for appointments)
+",2/1/2014,Chicago,Restaurants,10-Jan,Seed,50000,bookingsocial.com,6.315068493,7917.570499,0,0,5,0,0,0
+191,Startup,https://angel.co/company/runform-com,RUNform.com,"
+Automatic video analyses of people in motion using just your smartphone
+",4/1/2014,Europe,Fitness,10-Jan,Seed,50000,runform.com,6.153424658,8125.556545,0,0,5,0,0,0
+192,Startup,https://angel.co/company/personal-chef-approach,Personal Chef Approach,"
+Eat Healthy, Wealthy, & Wise
+",2/1/2014,Los Angeles,Lifestyle,10-Jan,Seed,80000,PersonalChefApproach.com,6.315068493,12668.1128,0,0,5,0,0,0
+193,Startup,https://angel.co/company/kuveda,Kuveda,"
+Big Data Analytics for Cancer Therapeutics
+",5/1/2014,San Jose,Therapeutics,10-Jan,Seed,70000,kuveda.com,6.071232877,11529.78339,0,0,5,186,92,228
+194,Startup,https://angel.co/company/doctordice-com,Docademic.com,"
+Global collaborative communications system exclusively for Doctors
+",9/1/2014,Mexico,Doctors,,Seed,150000,Docademic.com,5.734246575,26158.62398,0,0,,0,0,0
+195,Startup,https://angel.co/company/sportly-2,SPORTLY,"
+the business booster for fitness professionals
+",2/1/2015,Klagenfurt,Fitness,10-Jan,Closed,127650,sportly.co,5.315068493,24016.62371,0,0,5,1377,275,82
+196,Startup,https://angel.co/company/epifinder,EpiFinder,"
+The Google of Modern Medicine
+",4/1/2015,Scottsdale,SaaS,Nov-50,Seed,53000,epifinder.com,5.153424658,10284.42318,0,0,25,484,1048,767
+197,Startup,https://angel.co/company/bairo,Bairo,"
+Redefining healthcare by data
+",11/1/2015,Tampa,SaaS,Nov-50,Seed,125000,bairocorp.com,4.567123288,27369.52609,0,0,25,5,5,19
+198,Startup,https://angel.co/company/dna-guide,DNA Guide,"
+Mapping the Genome
+",8/1/2011,San Francisco,Bioinformatics,10-Jan,Seed,25000,dnaguide.com,8.821917808,2833.850932,0,0,5,0,0,0
+199,Startup,https://angel.co/company/treatspace,Treatspace,"
+Enterprise health networks for practices and hospitals
+",2/1/2014,Pittsburgh,Mobile Health,10-Jan,Seed,25000,treatspace.com,6.315068493,3958.785249,0,0,5,560,433,500
+200,Startup,https://angel.co/company/visiotech-solutions-1,VisioTech Solutions,"
+Smartphone Healthcare
+",3/1/2013,Bahawalpur,SaaS,10-Jan,Seed,10000,cloud.visiotechsolutions.com,7.238356164,1381.529145,0,0,5,0,0,0
+201,Startup,https://angel.co/company/hcprtc-telehealth-networks,HCPRTC - Telehealth Networks,"
+THE FUTURE OF HEALTHCARE DELIVERY AND  WORKFORCE GROUP COLLABORATION
+",5/1/2013,San Francisco,Real Time,10-Jan,Seed,35000,HCPRTC.COM,7.071232877,4949.631926,0,0,5,0,0,0
+202,Startup,https://angel.co/company/rippedathlete,RippedAthlete,"
+Custom Weekly Meal Plans and Shopping Lists
+",3/1/2013,New York City,Fitness,10-Jan,Seed,10000,rippedathlete.com,7.238356164,1381.529145,0,0,5,8,7,8
+203,Startup,https://angel.co/company/preferral,Preferral,"
+Streamlined, Appropriate Referral Scheduling
+",3/1/2013,Nashville,SaaS,10-Jan,Seed,23000,WorkMeIn.com,7.238356164,3177.517033,0,0,5,4,0,0
+204,Startup,https://angel.co/company/collabobeat,Collabobeat,"
+Slack for doctors and their patients, in Oncology
+",9/1/2013,Fermo,Mobile Health,10-Jan,Seed,25000,collabobeat.com,6.734246575,3712.367779,0,0,5,278,102,1659
+205,Startup,https://angel.co/company/simplifit,SimpliFit,"
+Weight Loss for the 21st Century
+",11/1/2013,San Francisco,Fitness,10-Jan,Seed,20000,getSimpliFit.com,6.567123288,3045.473509,0,0,5,20,27,28
+206,Startup,https://angel.co/company/acorales,Acorales,"
+Fitness and Health
+",1/1/2014,Irvine,Fitness,10-Jan,Seed,10000,Wandri.com,6.4,1562.5,0,0,5,21,0,7
+207,Startup,https://angel.co/company/trinnect,Trinnect,"
+Enjoy good health in India
+",7/1/2015,Espoo,Mobile Health,10-Jan,Seed,25000,trinnect.fi,4.904109589,5097.765363,0,0,5,3,0,5
+208,Startup,https://angel.co/company/drchrono,DrChrono,"
+On a mission to fix healthcare
+",2/1/2011,Sunnyvale,Medical Devices,51-200,Series A,48725000,drchrono.com,9.317808219,5229234.049,1,1,125,9659,10604,8087
+209,Startup,https://angel.co/company/seamless-medical-systems,Seamless Medical Systems,"
+iPad patient registration and health information platform for use in medical practices
+",8/1/2011,Santa Fe,Healthcare,10-Jan,-,3000000,seamlessmedical.com,8.821917808,340062.1118,1,0,5,0,0,0
+210,Startup,https://angel.co/company/fit3d,Fit3D,"
+Using 3D scanners, resulting data, and predictive AI solutions to solve massive problems
+",2/1/2013,San Mateo,Fitness,Nov-50,Seed,5390000,fit3d.com,7.315068493,736835.206,1,0,25,1447,3944,1513
+211,Startup,https://angel.co/company/wildflower-health,Wildflower Health,"
+Mobile programs that make healthcare smarter
+",12/1/2012,San Francisco,Mobile Health,Nov-50,Series B,5100000,wildflowerhealth.com,7.484931507,681368.9605,1,0,25,0,0,0
+212,Startup,https://angel.co/company/medicast,Medicast,"
+Care on-demand platform for hospitals and health systems (ACQUIRED)
+",2/1/2013,Silicon Valley,Mobile Health,10-Jan,Acquired,1940000,medicast.com,7.315068493,265205.9925,0,0,5,1189,736,827
+213,Startup,https://angel.co/company/opencare,Opencare.com,"
+Find a top-rated dentist in minutes
+",4/1/2013,San Francisco,Online Reservations,Nov-50,Seed,24550000,opencare.com,7.153424658,3431922.635,1,1,25,0,0,0
+214,Startup,https://angel.co/company/acupera,Acupera,"
+Population Health Platform
+",3/1/2013,San Francisco,Health Care Information Technology,Nov-50,Series A,4000000,acupera.com,7.238356164,552611.6578,1,0,25,131,337,648
+215,Startup,https://angel.co/company/act-md,Activate Care,"
+It takes a community
+",8/1/2014,Boston,Health Care Information Technology,Nov-50,Series A,8400000,activatecare.com,5.819178082,1443502.825,1,0,25,0,0,0
+216,Startup,https://angel.co/company/wecounsel,WeCounsel,"
+Telemedicine Software Service With An Emphasis In Mental Health
+",5/1/2013,Chattanooga,Mental Health,10-Jan,Series A,4400000,wecounsel.com,7.071232877,622239.4421,1,0,5,1512,1616,2717
+217,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+218,Startup,https://angel.co/company/goodmouth,GoodMouth,"
+Oral Care. Delivered
+",6/1/2014,New York City,Subscription Businesses,10-Jan,Seed,1005000,goodmouth.com,5.98630137,167883.2952,0,0,5,3,2,15
+219,Startup,https://angel.co/company/8fit,8fit,"
+Building healthy habits for life
+",2/1/2014,Berlin,Fitness,51-200,Series A,9500000,8fit.com,6.315068493,1504338.395,1,0,125,3989,557,3580
+220,Startup,https://angel.co/company/limelight-health,Limelight Health,"
+Underwriting & Rating platform for the Employee Benefits Industry
+",3/1/2014,Des Moines,Insurance,51-200,Series B,44210000,limelighthealth.com,6.238356164,7086802.811,1,1,125,0,0,0
+221,Startup,https://angel.co/company/i-human-patients,i-Human Patients,"
+",3/1/2016,Sunnyvale,Education Technology,Nov-50,Series A,2000000,i-human.com,4.235616438,472186.2872,0,0,25,0,0,0
+222,Startup,https://angel.co/company/docsapp,DocsApp,"
+Making quality healthcare easily accessible to over a billion people! 
+",10/1/2015,Bengaluru,Artificial Intelligence,201-500,Series A,8400000,docsapp.in,4.652054795,1805653.71,1,0,350,23,67,94
+223,Startup,https://angel.co/company/chai,Chai,"
+A biological testing lab on your desktop
+",12/1/2014,Santa Clara,Medical Devices,Nov-50,Seed,5000000,chaibio.com,5.484931507,911588.4116,1,0,25,338,209,7743
+224,Startup,https://angel.co/company/careskore-1,CareSkore,"
+Personalized Population Health Management
+",1/1/2015,San Francisco,Predictive Analytics,Nov-50,Seed,4300000,careskore.com,5.4,796296.2963,1,0,25,353,906,1296
+225,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+226,Startup,https://angel.co/company/doctorbase-acquired-by-kareo,DoctorBase (acquired by Kareo),"
+Patient Engagement Software
+",12/1/2010,San Francisco,Heathcare,Nov-50,Seed,1000000,DoctorBase.com,9.487671233,105399.9422,0,0,25,0,0,0
+227,Startup,https://angel.co/company/datagenno,DataGenno,"
+Portal for health care professionals and patients
+",3/1/2011,Chicago,Pharmaceuticals,10-Jan,Seed,600000,datagenno.com,9.24109589,64927.36436,0,0,5,61,34,1
+228,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+229,Startup,https://angel.co/company/speechtrans-1,SpeechTrans,"
+World's Most Advanced Language Translator
+",3/1/2012,Lyndhurst,SaaS,Nov-50,Seed,320000,speechtrans.com,8.238356164,38842.70037,0,0,25,7053,4450,129294
+230,Startup,https://angel.co/company/evinance,Evinance,"
+Personalized Decision Support for Doctors and Patients
+",8/1/2012,Montreal,Personal Health,10-Jan,Acquired,392000,evinance.com,7.819178082,50133.14646,0,0,5,27,25,38
+231,Startup,https://angel.co/company/vetcloud,VetCloud,"
+Using data to transform animal healthcare
+",9/1/2012,London,Cloud Management,10-Jan,Seed,400000,vetcloud.co,7.734246575,51718.03046,0,0,5,437,713,307
+232,Startup,https://angel.co/company/nursebuddy,NurseBuddy,"
+Coordinate healthcare at home
+",5/1/2013,Tampere,Mobile Health,10-Jan,Seed,888000,nursebuddy.co,7.071232877,125579.2329,0,0,5,0,7,2
+233,Startup,https://angel.co/company/medlio,Medlio,"
+Medlio alleviates the pain of visiting the doctor
+",2/1/2013,Durham,Mobile Payments,10-Jan,Seed,250000,medl.io,7.315068493,34176.02996,0,0,5,858,1067,4158
+234,Startup,https://angel.co/company/meludia,Meludia,"
+Musical Brain Training
+",8/1/2013,Paris,Music Education,Nov-50,Seed,888350,meludia.com,6.819178082,130272.2981,0,0,25,0,3,3
+235,Startup,https://angel.co/company/you-app,Fifth Corner Inc.,"
+Wellbeing and performance coaching for modern organizations
+",3/1/2013,Helsinki,B2B,10-Jan,Seed,550000,fifthcornerinc.com,7.238356164,75984.10295,0,0,5,0,0,0
+236,Startup,https://angel.co/company/image32,image32,"
+A disruptive approach to medical image sharing
+",3/1/2013,Menlo Park,Cloud Computing,10-Jan,Acquired,600000,image32.com,7.238356164,82891.74868,0,0,5,346,912,123
+237,Startup,https://angel.co/company/luminate-health,Luminate Health,"
+Helping patients access and understand their lab results
+",2/1/2015,San Mateo,Digital Health,10-Jan,Seed,1000000,luminatehealth.com,5.315068493,188144.3299,0,0,5,0,0,0
+238,Startup,https://angel.co/company/carevium-solutions-for-senior-living,Carevium - Solutions for Senior Living,"
+Empowering senior facilities, care givers and families
+",9/1/2013,Santa Clara,Elder Care,10-Jan,Seed,400000,carevium.com,6.734246575,59397.88446,0,0,5,0,0,0
+239,Startup,https://angel.co/company/zendyhealth,ZendyHealth,"
+Affordable health and dental care, made easy
+",10/1/2013,Los Angeles,Finance Technology,10-Jan,Seed,1000000,zendyhealth.com,6.652054795,150329.4893,0,0,5,3926,2667,1837
+240,Startup,https://angel.co/company/at-peak-resources,At Peak Resources,"
+Digital Health and Wellness
+",11/1/2013,New York City,Teenagers,10-Jan,Seed,500000,atpeaksports.com,6.567123288,76136.83771,0,0,5,0,0,0
+241,Startup,https://angel.co/company/tome-software,Tome Software,"
+Innovation for the Internet of Things
+",7/1/2014,Royal Oak,Corporate Wellness,Nov-50,Seed,250000,tomesoftware.com,5.904109589,42343.38747,0,0,25,0,0,0
+242,Startup,https://angel.co/company/sportconnect,SportConnect,"
+Engagement platform for sports influencers
+",8/1/2015,Palo Alto,Mobile Commerce,10-Jan,Seed,300000,sportconnect.com,4.819178082,62251.27914,0,0,5,259,81,421
+243,Startup,https://angel.co/company/motispark,MotiSpark,"
+Personalized video nudges that keep people motivated
+",4/1/2015,Los Angeles,Mental Health,10-Jan,Seed,225000,MotiSpark.com,5.153424658,43660.28708,0,0,5,55,247,203
+244,Startup,https://angel.co/company/gomotive-1,GoMotive,"
+Revolutionizing Rehab and Training
+",12/1/2015,Seattle,Fitness,10-Jan,Seed,225000,gomotive.com,4.484931507,50167.99023,0,0,5,118,122,217
+245,Startup,https://angel.co/company/acrinta,Acrinta,"
+Employee Wellness: Making it easier to live better
+",4/1/2012,Pittsburgh,Corporate Wellness,10-Jan,Seed,130000,acrinta.com,8.153424658,15944.22043,0,0,5,46,84,6
+246,Startup,https://angel.co/company/icare-intelligence,iCare Intelligence,"
+Healthcare Analytics for Healthplans and ACOs
+",9/1/2012,Miami,Risk Management,10-Jan,Seed,100000,icareintelligence.com,7.734246575,12929.50762,0,0,5,0,0,0
+247,Startup,https://angel.co/company/i-deed-it,I Deed It,"
+creative platform for employee engagement
+",1/1/2013,Sofia,Human Resources,10-Jan,Seed,95000,ideedit.com,7.4,12837.83784,0,0,5,0,0,0
+248,Startup,https://angel.co/company/hcprtc-telehealth-networks,HCPRTC - Telehealth Networks,"
+THE FUTURE OF HEALTHCARE DELIVERY AND  WORKFORCE GROUP COLLABORATION
+",5/1/2013,San Francisco,Real Time,10-Jan,Seed,35000,HCPRTC.COM,7.071232877,4949.631926,0,0,5,0,0,0
+249,Startup,https://angel.co/company/wellpepper,Wellpepper,"
+Clinically validated mobile care plans and patient reported outcomes
+",5/1/2013,Seattle,Mobile Health,10-Jan,Seed,176097,wellpepper.com,7.071232877,24903.29523,0,0,5,1089,1053,5263
+250,Startup,https://angel.co/company/clicky-2,Clickypass,"
+Clickypass is a membership program for fitness classes and activities
+",2/1/2014,Miami,Fitness,Nov-50,Seed,125000,clickpass.com,6.315068493,19793.92625,0,0,25,0,0,0
+251,Startup,https://angel.co/company/prohealth-mobile,ProHealth Mobile,"
+ The Productive HealthCare Cloud
+",8/1/2013,Earth,Mobile Health,10-Jan,Seed,27000,prohealth.mobi,6.819178082,3959.421454,0,0,5,0,0,0
+252,Startup,https://angel.co/company/gethealthy-2,GetHealthy,"
+Patient engagement software and services powering the Direct Primary Care revolution
+",10/1/2013,-,Mobile Health,10-Jan,Seed,200000,gethealthy.com,6.652054795,30065.89786,0,0,5,905,1807,1506
+253,Startup,https://angel.co/company/collabobeat,Collabobeat,"
+Slack for doctors and their patients, in Oncology
+",9/1/2013,Fermo,Mobile Health,10-Jan,Seed,25000,collabobeat.com,6.734246575,3712.367779,0,0,5,278,102,1659
+254,Startup,https://angel.co/company/swan-sleep-solutions,SWAN Sleep Solutions,"
+Corporate Wellness Rests on Sleep
+",12/1/2013,Mountain View,Corporate Wellness,10-Jan,Seed,100000,SwanMedical.com,6.484931507,15420.36333,0,0,5,0,0,0
+255,Startup,https://angel.co/company/medpac-technologies,MedPAC Technologies,"
+Web/mobile applications for Long-term and Post Acute Care
+",9/1/2014,New Albany,Hospitals,10-Jan,Seed,100000,medpactech.com,5.734246575,17439.08266,0,0,5,0,0,0
+256,Startup,https://angel.co/company/nuvenote,Nuvenote,"
+Intuitive appointment notes for doctors
+",2/1/2014,Paris,Mobile Health,10-Jan,Seed,50000,nuvenote.com,6.315068493,7917.570499,0,0,5,149,470,986
+257,Startup,https://angel.co/company/dochelp,DocHelp,"
+Expedia for Healthcare
+",5/1/2016,Seattle,Heathcare,10-Jan,Seed,160000,DocHelp.com,4.068493151,39326.59933,0,0,5,10,39,0
+258,Startup,https://angel.co/company/kuveda,Kuveda,"
+Big Data Analytics for Cancer Therapeutics
+",5/1/2014,San Jose,Therapeutics,10-Jan,Seed,70000,kuveda.com,6.071232877,11529.78339,0,0,5,186,92,228
+259,Startup,https://angel.co/company/doctordice-com,Docademic.com,"
+Global collaborative communications system exclusively for Doctors
+",9/1/2014,Mexico,Doctors,,Seed,150000,Docademic.com,5.734246575,26158.62398,0,0,,0,0,0
+260,Startup,https://angel.co/company/sportly-2,SPORTLY,"
+the business booster for fitness professionals
+",2/1/2015,Klagenfurt,Fitness,10-Jan,Closed,127650,sportly.co,5.315068493,24016.62371,0,0,5,1377,275,82
+261,Startup,https://angel.co/company/bairo,Bairo,"
+Redefining healthcare by data
+",11/1/2015,Tampa,SaaS,Nov-50,Seed,125000,bairocorp.com,4.567123288,27369.52609,0,0,25,5,5,19
+262,Startup,https://angel.co/company/futbol-fit-club-1,Futbol Fit Club,"
+We are Zumba for soccer fans
+",6/1/2016,Bogota,Fitness,10-Jan,Seed,70000,futbolfitclub.com,3.983561644,17572.21458,0,0,5,0,0,0
+263,Startup,https://angel.co/company/simplifit,SimpliFit,"
+Weight Loss for the 21st Century
+",11/1/2013,San Francisco,Fitness,10-Jan,Seed,20000,getSimpliFit.com,6.567123288,3045.473509,0,0,5,20,27,28
+264,Startup,https://angel.co/company/classpass,ClassPass,"
+One app for the best fitness classes
+",7/1/2011,Sydney,Fitness,501-1000,Series C,84000000,classpass.com,8.906849315,9430944.325,1,1,750,31033,8157,58084
+265,Startup,https://angel.co/company/fabricgenomics,Fabric Genomics,"
+Global healthcare platform for genomics-driven precision medicine, proven AI algorithms
+",7/1/2013,Oakland,Bioinformatics,Nov-50,Series B,23000000,fabricgenomics.com,6.904109589,3331349.206,1,1,25,0,0,0
+266,Startup,https://angel.co/company/cloudprime-quickdrop,CloudPrime QuickDrop‚Ñ¢,"
+Endpoint Encryption for private delivery of files & application messages
+",7/1/2011,San Francisco,Data Security,Nov-50,Series B,2000000,quickdropit.com,8.906849315,224546.2934,0,0,25,0,0,0
+267,Startup,https://angel.co/company/agilemd,AgileMD,"
+EHR-integrated pathways, analytics, and scoring tools
+",3/1/2012,San Francisco,Health Care Information Technology,10-Jan,Seed,2500000,agilemd.com,8.238356164,303458.5966,1,0,5,482,95,233
+268,Startup,https://angel.co/company/lark-3,Lark,"
+Lark's AI digital care platform enables virtual management of diabetes and heart disease
+",6/1/2013,Silicon Valley,Consumer Electronics,51-200,Series C,71700000,lark.com,6.98630137,10262941.18,1,1,125,551,1546,6214
+269,Startup,https://angel.co/company/myfitnesspal,MyFitnessPal,"
+Nutrition and fitness tracking
+",4/1/2012,San Francisco,Fitness,51-200,Acquired,18000000,myfitnesspal.com,8.153424658,2207661.29,1,1,125,183728,80,13022
+270,Startup,https://angel.co/company/doctor-com,Doctor.com,"
+The one stop shop for solutions and services for hospitals, clinics, and providers
+",6/1/2012,Atlanta,,51-200,Series A,8200000,doctor.com,7.98630137,1026758.148,1,0,125,0,0,0
+271,Startup,https://angel.co/company/electronic-health-network,Electronic Health Network,"
+Share Medical Records Securely
+",4/1/2013,Charleston,Business Services,10-Jan,Seed,1900000,enhsc.com,7.153424658,265607.0471,0,0,5,0,0,0
+272,Startup,https://angel.co/company/livesafe,LiveSafe,"
+",9/1/2013,-,Sports Stadiums,Nov-50,Series A,15750000,livesafemobile.com,6.734246575,2338791.701,1,1,25,2282,1094,4117
+273,Startup,https://angel.co/company/madaket-health,Madaket Health,"
+Connecting healthcare providers, insurance companies and intermediaries
+",12/1/2014,Cambridge,B2B,Nov-50,Series B,10000000,madakethealth.com,5.484931507,1823176.823,1,0,25,0,0,0
+274,Startup,https://angel.co/company/station-x,Station X,"
+Decoding genomes for better healthcare
+",10/1/2013,San Francisco,Diagnostics,Nov-50,Series A,15875000,stationxinc.com,6.652054795,2386480.643,1,1,25,0,0,0
+275,Startup,https://angel.co/company/dmetrics,dMetrics,"
+AI for everyone
+",9/1/2016,New York City,Machine Learning,Nov-50,Seed,7930000,dmetrics.com,3.731506849,2125146.843,1,0,25,1,6,4
+276,Startup,https://angel.co/company/infermedica,Infermedica,"
+AI-driven digital health company specialized in tools for preliminary diagnosis and triage
+",9/1/2013,Wroc?Çaw,Mobile Health,51-200,Seed,3650000,infermedica.com,6.734246575,542005.6957,1,0,125,2614,1241,1002
+277,Startup,https://angel.co/company/resilient-network-systems,Resilient Network Systems,"
+Delivering Connected Trust
+",6/1/2014,San Francisco,Governments,Nov-50,-,14900000,resilient-networks.com,5.98630137,2489016.018,1,1,25,0,0,0
+278,Startup,https://angel.co/company/connectrn,connectRN,"
+Digital Nursing Marketplace
+",6/1/2014,Baltimore,Hospitals,Nov-50,Series A,3100000,connectrn.com,5.98630137,517848.9703,1,0,25,2252,1193,1509
+279,Startup,https://angel.co/company/i-human-patients,i-Human Patients,"
+",3/1/2016,Sunnyvale,Education Technology,Nov-50,Series A,2000000,i-human.com,4.235616438,472186.2872,0,0,25,0,0,0
+280,Startup,https://angel.co/company/heal,Every.org,"
+On-demand doctor house calls
+",10/1/2014,-,Sharing Economy,51-200,Series B,48200000,heal.com,5.652054795,8527872.031,1,1,125,0,0,0
+281,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+282,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+283,Startup,https://angel.co/company/handle-my-health,Handle My Health,"
+Reclaim your health
+",6/1/2012,London,Internet of Things,10-Jan,Acquired,404882,handlemyhealth.com,7.98630137,50697.06003,0,0,5,0,0,0
+284,Startup,https://angel.co/company/speechtrans-1,SpeechTrans,"
+World's Most Advanced Language Translator
+",3/1/2012,Lyndhurst,SaaS,Nov-50,Seed,320000,speechtrans.com,8.238356164,38842.70037,0,0,25,7053,4450,129294
+285,Startup,https://angel.co/company/clickcare,ClickCare,"
+Simple, secure, spectacular hybrid store and forward telemedicine
+",3/1/2012,Binghamton,mHealth,10-Jan,Seed,500000,clickcare.com,8.238356164,60691.71932,0,0,5,1277,2003,4538
+286,Startup,https://angel.co/company/gipis,Gipis,"
+Personal training plans for runners
+",4/1/2012,-,Fitness,10-Jan,Seed,300000,gip.is,8.153424658,36794.35484,0,0,5,3,19,0
+287,Startup,https://angel.co/company/evinance,Evinance,"
+Personalized Decision Support for Doctors and Patients
+",8/1/2012,Montreal,Personal Health,10-Jan,Acquired,392000,evinance.com,7.819178082,50133.14646,0,0,5,27,25,38
+288,Startup,https://angel.co/company/credsimple,CredSimple,"
+Helping healthcare organizations become more responsive to providers, members and patients
+",3/1/2013,New York City,Hospitals,Nov-50,Seed,1500000,credsimple.com,7.238356164,207229.3717,0,0,25,1044,2827,5697
+289,Startup,https://angel.co/company/image32,image32,"
+A disruptive approach to medical image sharing
+",3/1/2013,Menlo Park,Cloud Computing,10-Jan,Acquired,600000,image32.com,7.238356164,82891.74868,0,0,5,346,912,123
+290,Startup,https://angel.co/company/luminate-health,Luminate Health,"
+Helping patients access and understand their lab results
+",2/1/2015,San Mateo,Digital Health,10-Jan,Seed,1000000,luminatehealth.com,5.315068493,188144.3299,0,0,5,0,0,0
+291,Startup,https://angel.co/company/healthcentrix,HealthCentrix - Prevvy.co,"
+Connected Health Ecosystem beyond the clinic
+",7/1/2013,San Francisco Bay Area,Mobile Health,10-Jan,Seed,530000,healthcentrix.com,6.904109589,76765.87302,0,0,5,0,0,0
+292,Startup,https://angel.co/company/race-yourself,Race Yourself,"
+Gamified Augmented Reality Exercise for Google Glass
+",8/1/2013,San Francisco,Fitness,Nov-50,Seed,325000,raceyourself.com,6.819178082,47659.70269,0,0,25,0,0,0
+293,Startup,https://angel.co/company/amstatz,amSTATZ,"
+Cloud-based software for personal trainers and studios
+",2/1/2014,Chicago,Fitness,Nov-50,Seed,1450000,amstatz.com,6.315068493,229609.5445,0,0,25,833,360,2519
+294,Startup,https://angel.co/company/ava-me,Ava Accessibility,"
+Live subtitles for any conversation. enjoy 24/7 access to conversations around you
+",3/1/2014,San Francisco,Communications Hardware,Nov-50,-,1845000,ava.me,6.238356164,295750.9881,0,0,25,0,0,0
+295,Startup,https://angel.co/company/tag-bio,Tag.bio,"
+DIY data science in healthtech
+",9/1/2014,San Francisco,Big Data Analytics,10-Jan,Seed,250000,tag.bio,5.734246575,43597.70664,0,0,5,0,0,0
+296,Startup,https://angel.co/company/iscribes,iScribes,"
+Medical documentation for the modern physician
+",7/1/2015,Durham,SaaS,51-200,Seed,1040000,iscribes.co,4.904109589,212067.0391,0,0,125,2,16,5
+297,Startup,https://angel.co/company/carvechi,Carvechi Technology,"
+Enterprise data platform 
+",10/1/2014,Miami,Entertainment Industry,Nov-50,Seed,300000,carvechitechnology.com,5.652054795,53078.04169,0,0,25,0,0,0
+298,Startup,https://angel.co/company/lift-digital,LIFT Digital,"
+virtual personal training & marketplace
+",2/1/2015,Montreal,Fitness,Nov-50,Seed,1000000,liftsession.com,5.315068493,188144.3299,0,0,25,0,0,0
+299,Startup,https://angel.co/company/motispark,MotiSpark,"
+Personalized video nudges that keep people motivated
+",4/1/2015,Los Angeles,Mental Health,10-Jan,Seed,225000,MotiSpark.com,5.153424658,43660.28708,0,0,5,55,247,203
+300,Startup,https://angel.co/company/acrinta,Acrinta,"
+Employee Wellness: Making it easier to live better
+",4/1/2012,Pittsburgh,Corporate Wellness,10-Jan,Seed,130000,acrinta.com,8.153424658,15944.22043,0,0,5,46,84,6
+301,Startup,https://angel.co/company/migym,MiGym,"
+Mobile Apps for Fitness Clubs and Class Providers
+",1/1/2013,Chicago,Location Based Services,-,Acquired,210000,migymapp.com,7.4,28378.37838,0,0,,5,18,0
+302,Startup,https://angel.co/company/clinata,Clinata,"
+World's Largest Marketplace for Clinical Research
+",9/1/2013,Dallas,Medical Devices,10-Jan,Seed,100000,signup.clinata.com,6.734246575,14849.47111,0,0,5,7,0,0
+303,Startup,https://angel.co/company/clicky-2,Clickypass,"
+Clickypass is a membership program for fitness classes and activities
+",2/1/2014,Miami,Fitness,Nov-50,Seed,125000,clickpass.com,6.315068493,19793.92625,0,0,25,0,0,0
+304,Startup,https://angel.co/company/lynxfit,LynxFit (Pivot),"
+EXPERT & DATA DRIVEN FITNESS
+",10/1/2013,Washington DC,Fitness,10-Jan,Seed,70000,lynxfit.com,6.652054795,10523.06425,0,0,5,0,0,0
+305,Startup,https://angel.co/company/healthcareblocks,Healthcare Blocks,"
+HIPAA-compliant platform for building and hosting healthcare applications
+",2/1/2014,Simi Valley,Mobile Health,10-Jan,Seed,50000,healthcareblocks.com,6.315068493,7917.570499,0,0,5,0,0,0
+306,Startup,https://angel.co/company/kuveda,Kuveda,"
+Big Data Analytics for Cancer Therapeutics
+",5/1/2014,San Jose,Therapeutics,10-Jan,Seed,70000,kuveda.com,6.071232877,11529.78339,0,0,5,186,92,228
+307,Startup,https://angel.co/company/sober,Sober,"
+The sober social network
+",11/1/2014,San Francisco,Online Dating,10-Jan,Seed,150000,sober.ly,5.567123288,26943.89764,0,0,5,0,0,0
+308,Startup,https://angel.co/company/drchrono,DrChrono,"
+On a mission to fix healthcare
+",2/1/2011,Sunnyvale,Medical Devices,51-200,Series A,48725000,drchrono.com,9.317808219,5229234.049,1,1,125,9659,10604,8087
+309,Startup,https://angel.co/company/fabricgenomics,Fabric Genomics,"
+Global healthcare platform for genomics-driven precision medicine, proven AI algorithms
+",7/1/2013,Oakland,Bioinformatics,Nov-50,Series B,23000000,fabricgenomics.com,6.904109589,3331349.206,1,1,25,0,0,0
+310,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+311,Startup,https://angel.co/company/evinance,Evinance,"
+Personalized Decision Support for Doctors and Patients
+",8/1/2012,Montreal,Personal Health,10-Jan,Acquired,392000,evinance.com,7.819178082,50133.14646,0,0,5,27,25,38
+312,Startup,https://angel.co/company/vetcloud,VetCloud,"
+Using data to transform animal healthcare
+",9/1/2012,London,Cloud Management,10-Jan,Seed,400000,vetcloud.co,7.734246575,51718.03046,0,0,5,437,713,307
+313,Startup,https://angel.co/company/etobb,eTobb,"
+Interactive health platform connecting patients & doctors
+",12/1/2012,Beirut,Mobile Health,Nov-50,Seed,326500,etobb.com,7.484931507,43620.97365,0,0,25,1,1,0
+314,Startup,https://angel.co/company/sense-health,Sense Health,"
+Smart communication designed for healthcare
+",12/1/2012,New York City,Mobile Health,Nov-50,Seed,2000000,sensehealth.com,7.484931507,267203.5139,0,0,25,0,0,0
+315,Startup,https://angel.co/company/acupera,Acupera,"
+Population Health Platform
+",3/1/2013,San Francisco,Health Care Information Technology,Nov-50,Series A,4000000,acupera.com,7.238356164,552611.6578,1,0,25,131,337,648
+316,Startup,https://angel.co/company/luminate-health,Luminate Health,"
+Helping patients access and understand their lab results
+",2/1/2015,San Mateo,Digital Health,10-Jan,Seed,1000000,luminatehealth.com,5.315068493,188144.3299,0,0,5,0,0,0
+317,Startup,https://angel.co/company/transitscreen,TransitScreen,"
+Helping corporate workplaces enhance the commute experience
+",5/1/2013,Washington DC,Corporate Wellness,Nov-50,Closed,4475000,transitscreen.com,7.071232877,632845.7962,1,0,25,4412,433,9300
+318,Startup,https://angel.co/company/wecounsel,WeCounsel,"
+Telemedicine Software Service With An Emphasis In Mental Health
+",5/1/2013,Chattanooga,Mental Health,10-Jan,Series A,4400000,wecounsel.com,7.071232877,622239.4421,1,0,5,1512,1616,2717
+319,Startup,https://angel.co/company/angelmd,angelMD,"
+Equity Crowdfunding for Medical Startups
+",7/1/2013,Seattle,Medical Devices,Nov-50,Seed,750000,angelmd.co,6.904109589,108630.9524,0,0,25,6,20,0
+320,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+321,Startup,https://angel.co/company/volt-athletics,Volt Athletics,"
+The first performance training AI for everyone
+",9/1/2013,Seattle,Fitness,Nov-50,Seed,3791474,voltathletics.com,6.734246575,563013.8365,1,0,25,0,0,0
+322,Startup,https://angel.co/company/doctible,Doctible,"
+Helping private practices to grow and thrive by driving patient retention
+",1/1/2014,San Diego,SaaS,51-200,Seed,4200000,doctible.com,6.4,656250,1,0,125,474,212,503
+323,Startup,https://angel.co/company/ringmd,RingMD,"
+Our mission is to bring healthcare online & improve access to affordable health services
+",5/1/2014,Singapore,Internet of Things,51-200,Seed,500000,ring.md,6.071232877,82355.59567,0,0,125,1299,65,1025
+324,Startup,https://angel.co/company/docsapp,DocsApp,"
+Making quality healthcare easily accessible to over a billion people! 
+",10/1/2015,Bengaluru,Artificial Intelligence,201-500,Series A,8400000,docsapp.in,4.652054795,1805653.71,1,0,350,23,67,94
+325,Startup,https://angel.co/company/chai,Chai,"
+A biological testing lab on your desktop
+",12/1/2014,Santa Clara,Medical Devices,Nov-50,Seed,5000000,chaibio.com,5.484931507,911588.4116,1,0,25,338,209,7743
+326,Startup,https://angel.co/company/infometers,Infometers,"
+aggregates patient monitoring data, provides a standardized platform
+",4/1/2012,Sunnyvale,Mobile Health,10-Jan,Acquired,50000,Infometers.com,8.153424658,6132.392473,0,0,5,0,0,0
+327,Startup,https://angel.co/company/treatspace,Treatspace,"
+Enterprise health networks for practices and hospitals
+",2/1/2014,Pittsburgh,Mobile Health,10-Jan,Seed,25000,treatspace.com,6.315068493,3958.785249,0,0,5,560,433,500
+328,Startup,https://angel.co/company/compassmd,CompassMD,"
+Relationship-centric yield optimization
+",7/1/2013,Cleveland,SaaS,10-Jan,Seed,270000,compassmd.com,6.904109589,39107.14286,0,0,5,0,0,0
+329,Startup,https://angel.co/company/gethealthy-2,GetHealthy,"
+Patient engagement software and services powering the Direct Primary Care revolution
+",10/1/2013,-,Mobile Health,10-Jan,Seed,200000,gethealthy.com,6.652054795,30065.89786,0,0,5,905,1807,1506
+330,Startup,https://angel.co/company/collabobeat,Collabobeat,"
+Slack for doctors and their patients, in Oncology
+",9/1/2013,Fermo,Mobile Health,10-Jan,Seed,25000,collabobeat.com,6.734246575,3712.367779,0,0,5,278,102,1659
+331,Startup,https://angel.co/company/simplifit,SimpliFit,"
+Weight Loss for the 21st Century
+",11/1/2013,San Francisco,Fitness,10-Jan,Seed,20000,getSimpliFit.com,6.567123288,3045.473509,0,0,5,20,27,28
+332,Startup,https://angel.co/company/acorales,Acorales,"
+Fitness and Health
+",1/1/2014,Irvine,Fitness,10-Jan,Seed,10000,Wandri.com,6.4,1562.5,0,0,5,21,0,7
+333,Startup,https://angel.co/company/runform-com,RUNform.com,"
+Automatic video analyses of people in motion using just your smartphone
+",4/1/2014,Europe,Fitness,10-Jan,Seed,50000,runform.com,6.153424658,8125.556545,0,0,5,0,0,0
+334,Startup,https://angel.co/company/sportly-2,SPORTLY,"
+the business booster for fitness professionals
+",2/1/2015,Klagenfurt,Fitness,10-Jan,Closed,127650,sportly.co,5.315068493,24016.62371,0,0,5,1377,275,82
+335,Startup,https://angel.co/company/motispark,MotiSpark,"
+Personalized video nudges that keep people motivated
+",4/1/2015,Los Angeles,Mental Health,10-Jan,Seed,225000,MotiSpark.com,5.153424658,43660.28708,0,0,5,55,247,203
+336,Startup,https://angel.co/company/gomotive-1,GoMotive,"
+Revolutionizing Rehab and Training
+",12/1/2015,Seattle,Fitness,10-Jan,Seed,225000,gomotive.com,4.484931507,50167.99023,0,0,5,118,122,217
+337,Startup,https://angel.co/company/classpass,ClassPass,"
+One app for the best fitness classes
+",7/1/2011,Sydney,Fitness,501-1000,Series C,84000000,classpass.com,8.906849315,9430944.325,1,1,750,31033,8157,58084
+338,Startup,https://angel.co/company/care,Care.com,"
+Offering an array of services that enable families to find, manage and pay for care
+",6/1/2014,Austin,Bridging Online and Offline,201-500,IPO,154850000,care.com,5.98630137,25867391.3,1,1,350,0,0,0
+339,Startup,https://angel.co/company/omada-health-1,Omada Health,"
+Omada¬Æ empowers people to achieve their health goals, one step at a time
+",9/1/2013,San Francisco,Therapeutics,201-500,Series C,71000000,omadahealth.com,6.734246575,10543124.49,1,1,350,0,0,0
+340,Startup,https://angel.co/company/lark-3,Lark,"
+Lark's AI digital care platform enables virtual management of diabetes and heart disease
+",6/1/2013,Silicon Valley,Consumer Electronics,51-200,Series C,71700000,lark.com,6.98630137,10262941.18,1,1,125,551,1546,6214
+341,Startup,https://angel.co/company/flatiron-health,Flatiron Health,"
+ Accelerating cancer research and improving patient care
+",9/1/2012,New York City,Health Care Information Technology,501-1000,Series A,328000000,flatiron.com,7.734246575,42408784.98,1,1,750,0,0,0
+342,Startup,https://angel.co/company/remedy-partners,Remedy Partners,"
+Powering the Potential of episodes & transforming healthcare
+",9/1/2012,Norwalk,SaaS,501-1000,Acquired,85900000,remedypartners.com,7.734246575,11106447.04,1,1,750,0,0,0
+343,Startup,https://angel.co/company/tracelink,TraceLink,"
+We protect patients, enable health and ensure compliance
+",1/1/2013,Rochester,Supply Chain Management,501-1000,Series C,80700000,tracelink.com,7.4,10905405.41,1,1,750,1144,443,1841
+344,Startup,https://angel.co/company/grand-rounds,Grand Rounds,"
+We raise the standard of healthcare for everyone, everywhere
+",5/1/2013,Reno,Startups,501-1000,Series C,106000000,grandrounds.com,7.071232877,14990313.83,1,1,750,0,0,0
+345,Startup,https://angel.co/company/ubiome,uBiome,"
+Big Data from Bacteria
+",3/1/2013,San Francisco,Big Data,201-500,Series C,104500000,ubiome.com,7.238356164,14436979.56,1,1,350,32334,18387,6351
+346,Startup,https://angel.co/company/madison-reed,Madison Reed,"
+At home hair color with ammonia free hair dye, that results in beautiful, healthy and natural hair
+",5/1/2013,San Francisco,Retail Technology,201-500,Series C,70100000,madison-reed.com,7.071232877,9913405.657,1,1,350,0,0,0
+347,Startup,https://angel.co/company/vestahealthcare,Vesta Healthcare,"
+Improving medical outcomes/reducing costs by engaging caregivers through technology
+",1/1/2014,Fort Worth,Technology,Nov-50,Series A,73500000,vestahealthcare.com,6.4,11484375,1,1,25,0,0,0
+348,Startup,https://angel.co/company/patientpop,PatientPop,"
+PatientPop drives results for practices with a platform designed for providers, focusing on growth
+",2/1/2015,Santa Monica,B2B,201-500,Series B,75000000,patientpop.com,5.315068493,14110824.74,1,1,350,2766,1749,2644
+349,Startup,https://angel.co/company/hinge-health,Hinge Health,"
+Hinge health delivers best practice care that improves chronic pain without drugs or surgery
+",3/1/2015,San Francisco,Fitness,51-200,Series C,125800000,hingehealth.com,5.238356164,24015167.36,1,1,125,0,0,0
+350,Startup,https://angel.co/company/alto,Alto Pharmacy,"
+Our mission: improve quality of life for everyone who needs medicine
+",10/1/2015,Las Vegas,Healthcare Services,201-500,Series D,353000000,alto.com,4.652054795,75880447.59,1,1,350,0,0,0
+351,Startup,https://angel.co/company/virta-health,Virta Health,"
+The first and only clinically-proven treatment to reverse type 2 diabetes w/o drugs or surgery
+",4/1/2016,San Francisco,Healthcare,51-200,Series C,175000000,virtahealth.com,4.150684932,42161716.17,1,1,125,0,0,0
+352,Startup,https://angel.co/company/diagram-ventures,Diagram Ventures,"
+A network of successful entrepreneurs and the transformational companies they create
+",3/1/2016,Montr?©al-Nord,Insurance,Nov-50,Closed,85000000,diagram.ca,4.235616438,20067917.21,1,1,25,0,0,0
+353,Startup,https://angel.co/company/drchrono,DrChrono,"
+On a mission to fix healthcare
+",2/1/2011,Sunnyvale,Medical Devices,51-200,Series A,48725000,drchrono.com,9.317808219,5229234.049,1,1,125,9659,10604,8087
+354,Startup,https://angel.co/company/netpulse,Netpulse,"
+Branded mobile apps for health clubs
+",1/1/2013,San Francisco,Fitness,51-200,Series D,39300000,netpulse.com,7.4,5310810.811,1,1,125,5294,830,5501
+355,Startup,https://angel.co/company/syapse,Syapse,"
+Powering precision medicine with insights from a global oncology network
+",2/1/2012,Radnor,Bioinformatics,51-200,Series C,59500000,syapse.com,8.317808219,7153326.746,1,1,125,1705,254,1676
+356,Startup,https://angel.co/company/weave,Weave,"
+Communication Platform for SMBs
+",5/1/2012,Utah,Telephony,51-200,Series C,58000000,getweave.com,8.071232877,7186014.936,1,1,125,5059,2245,4534
+357,Startup,https://angel.co/company/benchling,Benchling,"
+Informatics platform to accelerate, measure, and forecast R&D from discovery through bioprocessing
+",8/1/2012,San Francisco,Synthetic Biology,51-200,Series C,61900000,benchling.com,7.819178082,7916433.076,1,1,125,6224,1959,3347
+358,Startup,https://angel.co/company/apixio,Apixio,"
+Apixio's AI platform transforms disparate data into actionable knowledge in healthcare
+",8/1/2012,San Mateo,Insurance,51-200,Series D,53401348,apixio.com,7.819178082,6829534.695,1,1,125,804,994,1151
+359,Startup,https://angel.co/company/athos,Athos,"
+Wearable fitness technology
+",10/1/2012,Redwood City,Fitness,Nov-50,Seed,50700000,liveAthos.com,7.652054795,6625671.321,1,1,25,242,28,99
+360,Startup,https://angel.co/company/evidation,Evidation Health,"
+New ways to measure health in everyday life
+",5/1/2013,San Mateo,Big Data,51-200,Series C,57200000,evidation.com,7.071232877,8089112.747,1,1,125,0,0,0
+361,Startup,https://angel.co/company/stride-health,Stride,"
+Find the best possible insurance plan at the lowest possible price
+",8/1/2013,San Francisco,Personal Finance,51-200,Series B,38925000,stridehealth.com,6.819178082,5708165.93,1,1,125,30,0,0
+362,Startup,https://angel.co/company/soothe,Soothe,"
+Massage Delivered To You
+",6/1/2014,Los Angeles,,10-Jan,Series B,47300000,soothe.com,5.98630137,7901372.998,1,1,5,4635,1871,5148
+363,Startup,https://angel.co/company/limelight-health,Limelight Health,"
+Underwriting & Rating platform for the Employee Benefits Industry
+",3/1/2014,Des Moines,Insurance,51-200,Series B,44210000,limelighthealth.com,6.238356164,7086802.811,1,1,125,0,0,0
+364,Startup,https://angel.co/company/amino-inc,Amino,"
+Amino is a healthcare financial wellness benefit for mid-sized and large employers
+",4/1/2014,San Francisco,Small and Medium Businesses,Nov-50,Seed,46150000,amino.com,6.153424658,7499888.691,1,1,25,0,0,0
+365,Startup,https://angel.co/company/whoop,WHOOP,"
+Whoop is a performance optimization system for elite athletes and teams
+",7/1/2015,Boston,Fitness,51-200,Series C,47000000,whoop.com,4.904109589,9583798.883,1,1,125,20165,248,10919
+366,Startup,https://angel.co/company/heal,Every.org,"
+On-demand doctor house calls
+",10/1/2014,-,Sharing Economy,51-200,Series B,48200000,heal.com,5.652054795,8527872.031,1,1,125,0,0,0
+367,Startup,https://angel.co/company/elysium-health,Elysium Health,"
+Our mission is to turn critical scientific advancements into accessible consumer products
+",12/1/2014,New York City,Science,51-200,Series C,65000000,elysiumhealth.com,5.484931507,11850649.35,1,1,125,0,0,0
+368,Startup,https://angel.co/company/hicleo,Cleo,"
+Cleo is a family support system that employers offer to working parents
+",10/1/2016,San Francisco,Families,51-200,Series B,40947605,hicleo.com,3.649315068,11220627.5,1,1,125,1878710,489,12047
+369,Startup,https://angel.co/company/vineti,Vineti,"
+Software that helps deliver advanced therapies to save lives 
+",5/1/2016,San Francisco,Pharmaceuticals,51-200,Series A,47250000,vineti.com,4.068493151,11613636.36,1,1,125,6,0,14
+370,Startup,https://angel.co/company/arcadia_io,Arcadia,"
+Value Based Performance Management for Health Plans and Provider Groups Nationwide
+",8/1/2016,Burlington,Information Services,201-500,Series A,43000000,arcadia.io,3.816438356,11267049.53,1,1,350,2823,489,3657
+371,Startup,https://angel.co/company/fabricgenomics,Fabric Genomics,"
+Global healthcare platform for genomics-driven precision medicine, proven AI algorithms
+",7/1/2013,Oakland,Bioinformatics,Nov-50,Series B,23000000,fabricgenomics.com,6.904109589,3331349.206,1,1,25,0,0,0
+372,Startup,https://angel.co/company/gns-healthcare,GNS Healthcare,"
+Discovering what works in healthcare
+",1/1/2014,Cambridge,Big Data Analytics,Nov-50,Series C,25450000,gnshealthcare.com,6.4,3976562.5,1,1,25,0,0,0
+373,Startup,https://angel.co/company/quest-analytics,Quest Analytics,"
+Powering the healthcare market with validated doctor data
+",4/1/2012,Kansas City,Big Data Analytics,51-200,Acquired,24125000,betterdoctor.com,8.153424658,2958879.368,1,1,125,0,0,0
+374,Startup,https://angel.co/company/gauss-surgical-1,Gauss Surgical,"
+AI-Enabled Platform for Surgery
+",9/1/2013,Menlo Park,Computer Vision,Nov-50,Series C,38026000,gausssurgical.com,6.734246575,5646659.886,1,1,25,0,0,0
+375,Startup,https://angel.co/company/opencare,Opencare.com,"
+Find a top-rated dentist in minutes
+",4/1/2013,San Francisco,Online Reservations,Nov-50,Seed,24550000,opencare.com,7.153424658,3431922.635,1,1,25,0,0,0
+376,Startup,https://angel.co/company/healthify,Healthify,"
+Building a world where no one's health is hindered by their need
+",3/1/2013,Remote,Mobile Health,51-200,Series B,32000000,healthify.us,7.238356164,4420893.263,1,1,125,35,4,3
+377,Startup,https://angel.co/company/kinsa,Kinsa,"
+The world's smartest thermometer
+",4/1/2013,San Francisco,Mobile Health,Nov-50,Series B,28600000,kinsahealth.com,7.153424658,3998085.025,1,1,25,15238,3484,8420
+378,Startup,https://angel.co/company/healthifyme,HealthifyMe Wellness,"
+India and South East Asia's largest and most loved health & fitness app
+",12/1/2014,Bengaluru,Fitness,501-1000,Series B,25000000,healthifyme.com,5.484931507,4557942.058,1,1,750,0,0,0
+379,Startup,https://angel.co/company/fitmob,fitmob,"
+""uber/lyft"" for fitness
+",6/1/2013,San Francisco,Fitness,Nov-50,Series A,21250000,fitmob.com,6.98630137,3041666.667,1,1,25,25,0,0
+380,Startup,https://angel.co/company/lensgen-inc,"LensGen, Inc.","
+Implantable Lens to Treat Presbyopia and Cataracts  
+",9/1/2013,Irvine,Healthcare,10-Jan,Series A,23450000,lensgen.com,6.734246575,3482200.976,1,1,5,0,0,0
+381,Startup,https://angel.co/company/cornerstone-therapeutics-1,Cornerstone Therapeutics,"
+Massachusetts Medical Cannabis
+",10/1/2013,Boston,Marijuana,10-Jan,-,30000000,riverrockcolorado.com,6.652054795,4509884.679,1,1,5,0,0,0
+382,Startup,https://angel.co/company/walker-company-brands,Walker &amp; Company Brands,"
+Making health and beauty simple for people of color
+",1/1/2014,Palo Alto,Beauty,Nov-50,Acquired,35700000,walkerandcompany.com,6.4,5578125,1,1,25,0,0,0
+383,Startup,https://angel.co/company/eko-11,Eko,"
+Craigslist of Healthcare
+",1/1/2014,Berkeley,Diagnostics,Nov-50,Seed,27800000,ekohealth.com,6.4,4343750,1,1,25,49,148,70245
+384,Startup,https://angel.co/company/luma-health,Luma Health,"
+Total patient engagement with Luma Health
+",3/1/2015,San Francisco,Doctors,51-200,-,29100000,lumahealth.io,5.238356164,5555177.824,1,1,125,0,0,0
+385,Startup,https://angel.co/company/roam-analytics,Roam Analytics,"
+Quantifying Language for Modern Healthcare Companies
+",9/1/2015,San Mateo,Machine Learning,Nov-50,Series A,22192013,roamanalytics.com,4.734246575,4687549.042,1,1,25,0,0,0
+386,Startup,https://angel.co/company/simplehealth,Simple Health,"
+Care that fits your life
+",1/1/2016,New York City,Mobile Health,51-200,Series B,26000000,"simplehealth.com,",4.4,5909090.909,1,1,125,0,0,0
+387,Startup,https://angel.co/company/healthengine-2,HealthEngine,"
+Transforming access to healthcare
+",10/1/2016,Perth,Technology,51-200,Series C,26700000,careers.healthengine.com.au,3.649315068,7316441.441,1,1,125,5391,1799,2781
+388,Startup,https://angel.co/company/validic,Validic,"
+Access data from hundreds of health apps, wearables, and medical devices
+",5/1/2011,Durham,Health and Insurance,51-200,Series B,18358500,validic.com,9.073972603,2023204.257,1,1,125,6476,2993,8571
+389,Startup,https://angel.co/company/lumobodytech,Lumo Bodytech,"
+Technology platform optimizing human biomechanics
+",11/1/2011,Mountain View,Fitness,Nov-50,Series B,16100000,lumobodytech.com,8.569863014,1878676.471,1,1,25,0,0,0
+390,Startup,https://angel.co/company/chewse,Chewse,"
+Provides hassle-free, locally-sourced, delicious food, delivered straight to your door
+",1/1/2012,Austin,Hospitality,51-200,Series B,16000000,chewse.com,8.402739726,1904140.854,1,1,125,1531,1313,1656
+391,Startup,https://angel.co/company/sano,Sano,"
+",6/1/2012,San Francisco,Mobile Health,Nov-50,Seed,19500000,sano.co,7.98630137,2441680.961,1,1,25,44,0,15
+392,Startup,https://angel.co/company/myfitnesspal,MyFitnessPal,"
+Nutrition and fitness tracking
+",4/1/2012,San Francisco,Fitness,51-200,Acquired,18000000,myfitnesspal.com,8.153424658,2207661.29,1,1,125,183728,80,13022
+393,Startup,https://angel.co/company/onehealth-solutions,OneHealth Solutions,"
+Social peer support platform to improve health outcomes
+",5/1/2012,Solana Beach,Social Media Platforms,Nov-50,Acquired,16000000,onehealth.com,8.071232877,1982348.948,1,1,25,0,0,0
+394,Startup,https://angel.co/company/virtual-health,-,"
+We are the technology company changing the face of healthcare as we bring it into the 21st century
+",10/1/2012,New York City,Application Platforms,51-200,Series B,19550000,virtualhealth.com,7.652054795,2554869.316,1,1,125,0,0,0
+395,Startup,https://angel.co/company/whistle-labs,Whistle Labs,"
+Transforming pet care. Backed by science, powered by love
+",11/1/2012,San Francisco,Consumer Electronics,51-200,Series B,21000000,whistle.com,7.567123288,2775162.925,1,1,125,0,0,0
+396,Startup,https://angel.co/company/humanapi,Human API,"
+The easiest way for consumers to connect & share health data with any company
+",5/1/2013,San Mateo,Real Time,Nov-50,Series A,16624982,humanapi.co,7.071232877,2351072.619,1,1,25,0,0,0
+397,Startup,https://angel.co/company/babyscripts-by-1eq,Babyscripts,"
+Virtual Care for Obstetrics
+",3/1/2013,Washington DC,Hospitals,Nov-50,Series A,19000000,babyscripts.com,7.238356164,2624905.375,1,1,25,748,483,1078
+398,Startup,https://angel.co/company/chartspan,ChartSpan,"
+Value-Based Care Management Services
+",6/1/2013,Greenville,Mobile Health,51-200,Series A,21150000,ChartSpan.com,6.98630137,3027352.941,1,1,125,0,1,2
+399,Startup,https://angel.co/company/figure-1,Figure 1,"
+Sharing medical cases saves lives
+",6/1/2013,Toronto,mHealth,Nov-50,Series B,21000000,figure1.com,6.98630137,3005882.353,1,1,25,0,0,0
+400,Startup,https://angel.co/company/nimalabs,Nima,"
+trust your food 
+",8/1/2013,San Francisco,Health and Wellness,Nov-50,Series A,17200000,nimasensor.com,6.819178082,2522298.112,1,1,25,209938,1394,46128
+401,Startup,https://angel.co/company/savioke,Savioke,"
+Delivery Robots
+",8/1/2017,San Jose,Robotics,Nov-50,Seed,17000000,savioke.com,2.816438356,6035992.218,1,1,25,2701,1362,5732
+402,Startup,https://angel.co/company/aunt-bertha,Aunt Bertha,"
+Connecting all people in need with programs that help them
+",10/1/2016,Austin,Insurance,51-200,Series C,20800000,auntbertha.com,3.649315068,5699699.7,1,1,125,0,0,0
+403,Startup,https://angel.co/company/hellojoany,JOANY,"
+Health Insurance, Simple and Transparent
+",12/1/2014,Los Angeles,Insurance,Nov-50,Series A,18950000,joany.com,5.484931507,3454920.08,1,1,25,0,0,0
+404,Startup,https://angel.co/company/lemonaid-health,Lemonaid Health,"
+",8/1/2015,San Francisco,Mobile Health,Nov-50,Series A,17600000,lemonaid.com,4.819178082,3652075.043,1,1,25,0,0,0
+405,Startup,https://angel.co/company/sukihq,Suki,"
+A voice-based digital assistant for doctors
+",6/1/2017,Redwood City,Technology,Nov-50,Seed,20000000,suki.ai,2.983561644,6703397.612,1,1,25,2058,925,18824
+406,Startup,https://angel.co/company/godialogue,Dialogue,"
+Impactful care/benefits. Affordable, mobile/online, for Canadian companies
+",6/1/2016,Montr?©al-Nord,Corporate Wellness,201-500,Series A,16000000,dialogue.co,3.983561644,4016506.19,1,1,350,2817,15,347
+407,Startup,https://angel.co/company/trustedhealth,Trusted Health,"
+Powering the future of work in healthcare
+",4/1/2017,Remote,Human Resources,51-200,Series A,20000000,trustedhealth.com,3.150684932,6347826.087,1,1,125,0,0,0
+408,Startup,https://angel.co/company/digital-assent,Digital Assent,"
+Helping hospitals improve patient satisfaction and grow their online reputation
+",9/1/2012,Atlanta,Reviews and Recommendations,Nov-50,Acquired,12000000,digitalassent.com,7.734246575,1551540.914,1,0,25,0,0,0
+409,Startup,https://angel.co/company/elation,Elation Health,"
+In defense of the doctor-patient relationship. Focus on phenomenal care with a Clinical First EHR
+",6/1/2014,San Francisco,Physicians,Nov-50,Series B,15000000,elationhealth.com,5.98630137,2505720.824,1,1,25,0,0,0
+410,Startup,https://angel.co/company/procyrion,Procyrion,"
+at the heart of cardiorenal syndrome
+",10/1/2012,Houston,Medical Devices,10-Jan,Series B,12900000,procyrion.com,7.652054795,1685821.697,1,1,5,225,154,905
+411,Startup,https://angel.co/company/everplans,Everplans,"
+A new approach to end-of-life and death
+",3/1/2013,New York City,Personal Health,Nov-50,Seed,11920002,everplans.com,7.238356164,1646783.017,1,0,25,1173,870,1650
+412,Startup,https://angel.co/company/rxrevu,RxREVU,"
+Improving the value of healthcare through better prescribing decisions
+",1/1/2014,Denver,Predictive Analytics,Nov-50,Series A,15900000,rxrevu.com,6.4,2484375,1,1,25,1043,1965,815
+413,Startup,https://angel.co/company/livesafe,LiveSafe,"
+",9/1/2013,-,Sports Stadiums,Nov-50,Series A,15750000,livesafemobile.com,6.734246575,2338791.701,1,1,25,2282,1094,4117
+414,Startup,https://angel.co/company/aptible,Aptible,"
+Security management tools for modern teams
+",6/1/2013,Remote,Software Compliance,Nov-50,Seed,12120000,aptible.com,6.98630137,1734823.529,1,1,25,707,213,359
+415,Startup,https://angel.co/company/station-x,Station X,"
+Decoding genomes for better healthcare
+",10/1/2013,San Francisco,Diagnostics,Nov-50,Series A,15875000,stationxinc.com,6.652054795,2386480.643,1,1,25,0,0,0
+416,Startup,https://angel.co/company/epatientfinder,ePatientFinder,"
+Analytics Driven Patient Identification for Clinical Trials
+",8/1/2013,Austin,Medical Devices,10-Jan,Series B,14975000,epatientfinder.com,6.819178082,2196012.455,1,1,5,463,1524,644
+417,Startup,https://angel.co/company/klara-1,Klara,"
+Helping doctors and patients communicate with ease
+",10/1/2013,Berlin,Messaging,51-200,Series A,14500000,klara.com,6.652054795,2179777.595,1,1,125,237,214,948
+418,Startup,https://angel.co/company/sanity_and_self,Sanity &amp; Self,"
+An expert-led A.I.-powered platform to heal the world!  
+",2/1/2014,San Mateo,Mental Health,Nov-50,Series B,15000000,sanityandself.com,6.315068493,2375271.15,1,1,25,0,0,0
+419,Startup,https://angel.co/company/bright-md,Bright.md,"
+Automating $150 billion of care delivery
+",12/1/2013,Portland,Mobile Health,Nov-50,Series B,11500000,bright.md,6.484931507,1773341.783,1,0,25,0,0,0
+420,Startup,https://angel.co/company/coherohealth,Cohero Health,"
+Connected health platform empowering respiratory patients
+",1/1/2014,New York City,Sensors,10-Jan,Series A,12500000,coherohealth.com,6.4,1953125,1,1,5,0,0,0
+421,Startup,https://angel.co/company/pdx-biotech-2,PDx BioTech,"
+""Check oil light"" for oral diseases in human and veterinary medicine
+",2/1/2014,Lexington,Veterinary,10-Jan,Seed,13800000,perio-dx.com;,6.315068493,2185249.458,1,1,5,0,0,0
+422,Startup,https://angel.co/company/motiv,Motiv,"
+Keep Living Better
+",2/1/2015,San Francisco,Fitness,Nov-50,Acquired,15668000,mymotiv.com,5.315068493,2947845.361,1,1,25,3071,72,2023
+423,Startup,https://angel.co/company/resilient-network-systems,Resilient Network Systems,"
+Delivering Connected Trust
+",6/1/2014,San Francisco,Governments,Nov-50,-,14900000,resilient-networks.com,5.98630137,2489016.018,1,1,25,0,0,0
+424,Startup,https://angel.co/company/naked-labs,Naked Labs,"
+Visualizing your body by using infrared light to capture your 3d body model
+",2/1/2015,Redwood City,Fitness,Nov-50,Series A,14000000,nakedlabs.com,5.315068493,2634020.619,1,1,25,0,0,0
+425,Startup,https://angel.co/company/greatist,Greatist,"
+Next-gen brand for healthyish millennials
+",7/1/2011,New York City,Digital Health,Nov-50,Acquired,8000000,greatist.com,8.906849315,898185.1738,1,0,25,106322,1677,46298
+426,Startup,https://angel.co/company/healthloop,HealthLoop,"
+Empowering patients for better outcomes and lower costs
+",4/1/2013,Mountain View,Mobile Health,Nov-50,Series A,10000000,healthloop.com,7.153424658,1397931.827,1,0,25,2178,1130,2588
+427,Startup,https://angel.co/company/doctor-com,Doctor.com,"
+The one stop shop for solutions and services for hospitals, clinics, and providers
+",6/1/2012,Atlanta,,51-200,Series A,8200000,doctor.com,7.98630137,1026758.148,1,0,125,0,0,0
+428,Startup,https://angel.co/company/retracehealth-1,RetraceHealth,"
+Personal, convenient, affordable primary care
+",4/1/2013,Minneapolis,Technology,10-Jan,Series A,8000000,retracehealth.com,7.153424658,1118345.462,1,0,5,0,0,0
+429,Startup,https://angel.co/company/act-md,Activate Care,"
+It takes a community
+",8/1/2014,Boston,Health Care Information Technology,Nov-50,Series A,8400000,activatecare.com,5.819178082,1443502.825,1,0,25,0,0,0
+430,Startup,https://angel.co/company/madaket-health,Madaket Health,"
+Connecting healthcare providers, insurance companies and intermediaries
+",12/1/2014,Cambridge,B2B,Nov-50,Series B,10000000,madakethealth.com,5.484931507,1823176.823,1,0,25,0,0,0
+431,Startup,https://angel.co/company/opternative,Visibly,"
+The most convenient way to get a prescription for glasses or contacts
+",8/1/2013,Chicago,Eyewear,Nov-50,Series A,9100000,govisibly.com,6.819178082,1334471.675,1,0,25,1,1,0
+432,Startup,https://angel.co/company/polymathventures,Polymath Ventures,"
+We are the Venture Studio for Latin America
+",1/1/2014,Bogota,Corporate Wellness,Nov-50,Pre-Seed,8800000,polymathv.com,6.4,1375000,1,0,25,0,0,0
+433,Startup,https://angel.co/company/8fit,8fit,"
+Building healthy habits for life
+",2/1/2014,Berlin,Fitness,51-200,Series A,9500000,8fit.com,6.315068493,1504338.395,1,0,125,3989,557,3580
+434,Startup,https://angel.co/company/vericred,Vericred,"
+A healthcare data services company serving the health insurance industry
+",9/1/2014,New York City,Information Services,Nov-50,Series A,9725000,vericred.com,5.734246575,1695950.788,1,0,25,507,1714,2470
+435,Startup,https://angel.co/company/oration,Oration,"
+Disrupting the Business of Healthcare
+",6/1/2014,Foster City,Big Data Analytics,Nov-50,Series A,11200000,oration.com,5.98630137,1870938.215,1,0,25,0,0,0
+436,Startup,https://angel.co/company/medigo,Medigo,"
+The best in international healthcare for you, your family, and business. Live better
+",10/1/2014,Berlin,Hospitals,Nov-50,Seed,9300000,medigo.com,5.652054795,1645419.292,1,0,25,381,38,661
+437,Startup,https://angel.co/company/docsapp,DocsApp,"
+Making quality healthcare easily accessible to over a billion people! 
+",10/1/2015,Bengaluru,Artificial Intelligence,201-500,Series A,8400000,docsapp.in,4.652054795,1805653.71,1,0,350,23,67,94
+438,Startup,https://angel.co/company/peerwell,PeerWell,"
+Surgery Optimization Platform for Musculoskeletal Health
+",2/1/2015,Austin,Medical Technologies,Nov-50,Series A,8600000,peerwell.co,5.315068493,1618041.237,1,0,25,1087,600,1399
+439,Startup,https://angel.co/company/lifen,Lifen,"
+",5/1/2017,Paris,Computers,51-200,Series A,9000000,lifen.fr,3.068493151,2933035.714,1,0,125,13,13,5
+440,Startup,https://angel.co/company/zenysis,Zenysis,"
+Advanced analytics for developing countries
+",3/1/2016,San Francisco,International Development,Nov-50,Series A,8003365,zenysis.com,4.235616438,1889539.602,1,0,25,254,288,131
+441,Startup,https://angel.co/company/caracare,Cara Care,"
+We empower individuals to live a healthier and happier life
+",10/1/2017,Berlin,Mobile Health,Nov-50,Series A,9000000,cara.care,2.649315068,3397104.447,1,0,25,0,0,0
+442,Startup,https://angel.co/company/simple-habit,Simple Habit,"
+On a mission to help people live better, everyday
+",4/1/2017,San Francisco,Alternative Medicine,Nov-50,Series A,10000000,simplehabit.com,3.150684932,3173913.043,1,0,25,0,0,0
+443,Startup,https://angel.co/company/caremerge,caremerge,"
+Healthcare Communication and Care Coordination Platform
+",1/1/2012,Chicago,mHealth,Nov-50,Series A,6540000,caremerge.com,8.402739726,778317.5742,1,0,25,2246,1547,4610
+444,Startup,https://angel.co/company/carelinx,CareLinx,"
+Caregiver Marketplace:  Disrupting the $100B+ in-home care market. AARP Winner!
+",5/1/2012,San Francisco,Baby Boomers,10-Jan,Acquired,7000000,carelinx.com,8.071232877,867277.6646,1,0,5,4877,5352,3942
+445,Startup,https://angel.co/company/medisafe,Medisafe,"
+Leading Personalized Medication Management Platform helping patients manage their health
+",6/1/2012,Boston,mHealth,Nov-50,Series A,7000000,medisafe.com,7.98630137,876500.8576,1,0,25,228,198,174
+446,Startup,https://angel.co/company/blueboard,Blueboard,"
+Employee Recognition for the Modern Workplace. Reward Top Employees with Experiences
+",9/1/2012,San Francisco,Human Resources,51-200,Seed,6575000,blueboard.com,7.734246575,850115.1258,1,0,125,1232,1177,3377
+447,Startup,https://angel.co/company/lifedojo,LifeDojo,"
+The Employee Health Behavior Change Platform
+",2/1/2013,San Francisco,B2B,Nov-50,Series A,6400000,lifedojo.com,7.315068493,874906.367,1,0,25,1207,731,1063
+448,Startup,https://angel.co/company/tute-genomics,Tute Genomics,"
+Cloud-based Genome Analysis for Precision Medicine
+",3/1/2013,Provo,Startups,Nov-50,Acquired,7700000,tutegenomics.com,7.238356164,1063777.441,1,0,25,0,0,0
+449,Startup,https://angel.co/company/maverix-biomics,Maverix Biomics,"
+Next generation genomic data management, exploration, and visualization
+",7/1/2013,San Mateo,Bioinformatics,10-Jan,Series A,7350000,maverixbio.com,6.904109589,1064583.333,1,0,5,0,0,0
+450,Startup,https://angel.co/company/jaanuu,Jaanuu,"
+Medical Apparel Reimagined
+",4/1/2013,Los Angeles,Technology,Nov-50,Seed,7625000,Jaanuu.com,7.153424658,1065923.018,1,0,25,0,14,0
+451,Startup,https://angel.co/company/zapprx,ZappRx,"
+",7/1/2013,Boston,Mobile Payments,Nov-50,Series A,7600000,ZappRx.com,6.904109589,1100793.651,1,0,25,0,0,0
+452,Startup,https://angel.co/company/fitstar,FitStar,"
+Adaptive fitness applications
+",8/1/2013,San Francisco,Fitness,Nov-50,Acquired,6700000,fitstar.com,6.819178082,982523.1016,1,0,25,5,12,1112
+453,Startup,https://angel.co/company/dmetrics,dMetrics,"
+AI for everyone
+",9/1/2016,New York City,Machine Learning,Nov-50,Seed,7930000,dmetrics.com,3.731506849,2125146.843,1,0,25,1,6,4
+454,Startup,https://angel.co/company/spryhealth,Spry Health,"
+Predicting the progression of disease & clinical risk of people with chronic illnesses
+",9/1/2013,Palo Alto,Fitness,Nov-50,Seed,7000000,spryhealth.com,6.734246575,1039462.978,1,0,25,0,0,0
+455,Startup,https://angel.co/company/metamason,Metamason,"
+Truly Personalized Respiratory Devices via 3D Scanning & Printing
+",12/1/2013,Los Angeles,Medical Devices,Nov-50,Seed,6700000,metamason.com,6.484931507,1033164.343,1,0,25,4,1,0
+456,Startup,https://angel.co/company/erelevance,eRelevance,"
+Progressive Patient Engagement Service for Healthcare Providers
+",1/1/2014,Austin,Health Care Information Technology,10-Jan,Seed,7200000,erelevencecorp.com,6.4,1125000,1,0,5,0,0,0
+457,Startup,https://angel.co/company/thistle-1,Thistle,"
+Healthy and Affordable Preprepared Meals. Delivered
+",3/1/2014,San Francisco,Subscription Businesses,201-500,Seed,6650000,thistle.co,6.238356164,1065985.946,1,0,350,70,25,77
+458,Startup,https://angel.co/company/nirmidas-biotech,Nirmidas Biotech,"
+",2/1/2016,Palo Alto,Diagnostics,10-Jan,Series A,7000000,nirmidas.com,4.315068493,1622222.222,1,0,5,0,0,0
+459,Startup,https://angel.co/company/catalia-health,Catalia Health,"
+Effective patient care management
+",10/1/2014,San Francisco,Medication Adherence,Nov-50,Seed,7750000,cataliahealth.com,5.652054795,1371182.744,1,0,25,0,0,0
+460,Startup,https://angel.co/company/hykso,FightCamp (f.k.a Hykso),"
+Connected at-home boxing workouts
+",5/1/2015,Costa Mesa,Fitness,Nov-50,Seed,6700000,joinfightcamp.com,5.071232877,1321177.742,1,0,25,0,0,0
+461,Startup,https://angel.co/company/worklete,Worklete,"
+Reducing injuries, costs, and inefficiencies for frontline workforces
+",10/1/2015,San Francisco,Corporate Wellness,Nov-50,Series A,7875000,worklete.com,4.652054795,1692800.353,1,0,25,139,90,204
+462,Startup,https://angel.co/company/breakthrough-com,Breakthrough,"
+Online mental healthcare
+",10/1/2010,Redwood City,,10-Jan,Acquired,6000000,breakthrough.com,9.654794521,621452.8944,1,0,5,343,543,270
+463,Startup,https://angel.co/company/caredox,CareDox,"
+Support K12 schools in health care management
+",3/1/2011,New York City,K-12 Education,Nov-50,Seed,6050000,caredox.com,9.24109589,654684.2573,1,0,25,542,370,945
+464,Startup,https://angel.co/company/cellscope,CellScope,"
+We're turning your smartphone into a digital first aid kit
+",5/1/2011,San Francisco,Diagnostics,Nov-50,Series A,5500000,cellscope.com,9.073972603,606129.2271,1,0,25,2150,1077,1143
+465,Startup,https://angel.co/company/cureatr,Cureatr,"
+Mobile Care Coordination
+",6/1/2014,New York City,Health Care Information Technology,Nov-50,Series A,6125000,cureatr.com,5.98630137,1023169.336,1,0,25,556,428,943
+466,Startup,https://angel.co/company/everymove,EveryMove,"
+Fitness inspiraton & goal motivation 
+",7/1/2011,Seattle,Quantified Self,Nov-50,Acquired,6118000,everymove.org,8.906849315,686887.1117,1,0,25,9196,10623,2471
+467,Startup,https://angel.co/company/wellnessfx,WellnessFX,"
+The Leading Cloud-Based Health and Wellness Destination
+",4/1/2012,San Francisco,Personal Health,Nov-50,Acquired,5850000,wellnessfx.com,8.153424658,717489.9194,1,0,25,27595,1412,14494
+468,Startup,https://angel.co/company/striiv,Striiv,"
+Behavior & Biometric Validation at Scale for Healthcare
+",9/1/2013,Redwood City,Mobile Health,Nov-50,Series A,6000000,striiv.com,6.734246575,890968.2669,1,0,25,1230,6,884
+469,Startup,https://angel.co/company/fit3d,Fit3D,"
+Using 3D scanners, resulting data, and predictive AI solutions to solve massive problems
+",2/1/2013,San Mateo,Fitness,Nov-50,Seed,5390000,fit3d.com,7.315068493,736835.206,1,0,25,1447,3944,1513
+470,Startup,https://angel.co/company/wildflower-health,Wildflower Health,"
+Mobile programs that make healthcare smarter
+",12/1/2012,San Francisco,Mobile Health,Nov-50,Series B,5100000,wildflowerhealth.com,7.484931507,681368.9605,1,0,25,0,0,0
+471,Startup,https://angel.co/company/inbox-health,Inbox Health,"
+Transforming Medical Billing
+",2/1/2013,New Haven,Billing,Nov-50,Seed,5175434,inboxhealth.com,7.315068493,707503.1498,1,0,25,0,0,0
+472,Startup,https://angel.co/company/rubiconmd,RubiconMD,"
+Expert insights and better care. eConsults that connect clinicians to top specialists
+",3/1/2013,New York City,Mobile Health,Nov-50,Series A,5300000,rubiconmd.com,7.238356164,732210.4466,1,0,25,6,35,0
+473,Startup,https://angel.co/company/smartvisionlabs,Smart Vision Labs,"
+building a better vision exam
+",1/1/2014,New York City,Mobile Health,Nov-50,Series A,6100000,smartvisionlabs.com,6.4,953125,1,0,25,0,0,0
+474,Startup,https://angel.co/company/gozio,Gozio Health,"
+Gozio Health provides the #1 patient engagement platform for hospitals and health systems
+",4/1/2016,San Francisco,Indoor Positioning,Nov-50,Series A,5700000,goziohealth.com,4.150684932,1373267.327,1,0,25,0,0,0
+475,Startup,https://angel.co/company/noteworth,Noteworth,"
+Harmonizing healthcare delivery
+",1/1/2015,Hoboken,Digital Health,Nov-50,Seed,5100000,noteworth.com,5.4,944444.4444,1,0,25,36,69,28
+476,Startup,https://angel.co/company/lose-it-1,Lose It!,"
+Mobile health and fitness tracking
+",4/1/2015,Boston,Fitness,Nov-50,Series A,5500000,loseit.com,5.153424658,1067251.462,1,0,25,0,0,0
+477,Startup,https://angel.co/company/genos-research,Genos Research,"
+Consumer Genomics Platform for Personal Discovery and Research
+",6/1/2016,San Francisco,Genomics,Nov-50,Acquired,6000000,genosresearch.com,3.983561644,1506189.821,1,0,25,0,0,0
+478,Startup,https://angel.co/company/werecover,WeRecover,"
+WeRecover is a transparent search engine for addiction recovery resources
+",3/1/2017,Los Angeles,Mobile Health,Nov-50,Seed,5250000,WeRecover.com,3.235616438,1622565.622,1,0,25,60,5,172
+479,Startup,https://angel.co/company/cognifit,CogniFit,"
+CogniFit is a leading developer of online brain training and brain fitness solutions
+",8/1/2015,New York City,Pharmaceuticals,10-Jan,Series A,5000000,cognifit.com,4.819178082,1037521.319,1,0,5,23600,163,5404
+480,Startup,https://angel.co/company/vitaportal,VitaPortal,"
+Provider of Personalized Real-time Healthcare Information
+",7/1/2012,Moscow,Mobile Advertising,Nov-50,-,4350000,vitaportal.ru,7.904109589,550346.6205,1,0,25,13,1,437
+481,Startup,https://angel.co/company/waybetter,WayBetter,"
+Bet on yourself!
+",8/1/2012,New York City,Gamification,Nov-50,Series A,4750000,waybetter.com,7.819178082,607480.7288,1,0,25,41,214,226
+482,Startup,https://angel.co/company/swift-shift,SWIFT SHIFT,"
+Agencies, Caregivers, and Patients: Homecare Connected
+",12/1/2012,Philadelphia,,Nov-50,Seed,4700000,swiftshift.com,7.484931507,627928.2577,1,0,25,0,0,0
+483,Startup,https://angel.co/company/happier,Happier,"
+Focusing on the positive and staying connected to people you care about makes you happier
+",1/1/2013,Boston,Personal Health,10-Jan,Seed,4400000,happier.com,7.4,594594.5946,1,0,5,14416,857,9799
+484,Startup,https://angel.co/company/newtopia,Newtopia,"
+Inspiring individuals to live healthier everyday
+",3/1/2013,Toronto,Corporate Wellness,51-200,Seed,5000000,newtopia.com,7.238356164,690764.5723,1,0,125,987,145,3797
+485,Startup,https://angel.co/company/kitman-labs,Kitman Labs,"
+Powering human performance
+",4/1/2013,Menlo Park,Fitness,Nov-50,-,4682500,kitmanlabs.com,7.153424658,654581.5779,1,0,25,0,0,0
+486,Startup,https://angel.co/company/transitscreen,TransitScreen,"
+Helping corporate workplaces enhance the commute experience
+",5/1/2013,Washington DC,Corporate Wellness,Nov-50,Closed,4475000,transitscreen.com,7.071232877,632845.7962,1,0,25,4412,433,9300
+487,Startup,https://angel.co/company/wecounsel,WeCounsel,"
+Telemedicine Software Service With An Emphasis In Mental Health
+",5/1/2013,Chattanooga,Mental Health,10-Jan,Series A,4400000,wecounsel.com,7.071232877,622239.4421,1,0,5,1512,1616,2717
+488,Startup,https://angel.co/company/clariture,Clariture,"
+Enterprise Healthcare Marketing Platform
+",11/1/2013,San Francisco,Social CRM,Nov-50,Series A,4500000,clariturehealth.com,6.567123288,685231.5394,1,0,25,31,36,94
+489,Startup,https://angel.co/company/esprit-health,Esprit-Health,"
+Apple store service meets Emergency Hospital
+",1/1/2014,Texas,Healthcare,10-Jan,Series A,5000000,,6.4,781250,1,0,5,0,0,0
+490,Startup,https://angel.co/company/unaliwear,UnaliWear,"
+Wearable ""OnStar for People""
+",2/1/2014,Austin,Medical Devices,Nov-50,Seed,4600000,unaliwear.com,6.315068493,728416.4859,1,0,25,889,1536,1207
+491,Startup,https://angel.co/company/circlelink-health,CircleLink Health,"
+Improving Health and Dr. Revenue with Best-in-Class Tele-nursing Platform
+",4/1/2014,New York City,Health Care Information Technology,10-Jan,Seed,5000000,circlelinkhealth.com,6.153424658,812555.6545,1,0,5,0,0,0
+492,Startup,https://angel.co/company/chai,Chai,"
+A biological testing lab on your desktop
+",12/1/2014,Santa Clara,Medical Devices,Nov-50,Seed,5000000,chaibio.com,5.484931507,911588.4116,1,0,25,338,209,7743
+493,Startup,https://angel.co/company/careskore-1,CareSkore,"
+Personalized Population Health Management
+",1/1/2015,San Francisco,Predictive Analytics,Nov-50,Seed,4300000,careskore.com,5.4,796296.2963,1,0,25,353,906,1296
+494,Startup,https://angel.co/company/lifefuels,LifeFuels,"
+Personalized beverages, wherever life takes you
+",3/1/2015,Reston,Personal Health,Nov-50,Seed,5000000,lifefuels.co,5.238356164,954497.9079,1,0,25,2304,580,2440
+495,Startup,https://angel.co/company/plume-labs,Plume Labs,"
+Clean air, together
+",2/1/2017,San Francisco,Consumer Electronics,Nov-50,Seed,4500000,plumelabs.com,3.312328767,1358560.794,1,0,25,0,0,0
+496,Startup,https://angel.co/company/nocd-1,NOCD,"
+NOCD is an app that helps people with OCD worry less and live more
+",7/1/2016,Chicago,,Nov-50,Series A,5000000,treatmyocd.com,3.901369863,1281601.124,1,0,25,4,5,1
+497,Startup,https://angel.co/company/nextgxdx,NextGxDx,"
+Genetics marketplace for docs
+",7/1/2012,Nashville,Genetic Testing,10-Jan,Series B,3949029,nextgxdx.com,7.904109589,499617.1872,1,0,5,0,0,0
+498,Startup,https://angel.co/company/crowdmed,CrowdMed,"
+CrowdMed empowers anyone to solve medical mysteries
+",10/1/2012,San Francisco,Crowdsourcing,10-Jan,Seed,3145000,crowdmed.com,7.652054795,411000.7161,1,0,5,0,0,0
+499,Startup,https://angel.co/company/acupera,Acupera,"
+Population Health Platform
+",3/1/2013,San Francisco,Health Care Information Technology,Nov-50,Series A,4000000,acupera.com,7.238356164,552611.6578,1,0,25,131,337,648
+500,Startup,https://angel.co/company/solvebio,SolveBio,"
+Genomic Intelligence Platform
+",11/1/2013,New York City,Bioinformatics,10-Jan,Seed,3900000,solvebio.com,6.567123288,593867.3342,1,0,5,9,0,1
+501,Startup,https://angel.co/company/volt-athletics,Volt Athletics,"
+The first performance training AI for everyone
+",9/1/2013,Seattle,Fitness,Nov-50,Seed,3791474,voltathletics.com,6.734246575,563013.8365,1,0,25,0,0,0
+502,Startup,https://angel.co/company/infermedica,Infermedica,"
+AI-driven digital health company specialized in tools for preliminary diagnosis and triage
+",9/1/2013,Wroc?Çaw,Mobile Health,51-200,Seed,3650000,infermedica.com,6.734246575,542005.6957,1,0,125,2614,1241,1002
+503,Startup,https://angel.co/company/mahmee,Mahmee,"
+Mapping the Maternal Healthcare Ecosystem
+",10/1/2015,Los Angeles,Women-Focused,Nov-50,Seed,4005000,mahmee.com,4.652054795,860909.894,1,0,25,21,38,881
+504,Startup,https://angel.co/company/isentio,Isentio,"
+Pathogen Identification as a Service
+",12/1/2013,Sunnyvale,Bioinformatics,10-Jan,Seed,4150000,isentio.com,6.484931507,639945.0782,1,0,5,51,1,67
+505,Startup,https://angel.co/company/doctible,Doctible,"
+Helping private practices to grow and thrive by driving patient retention
+",1/1/2014,San Diego,SaaS,51-200,Seed,4200000,doctible.com,6.4,656250,1,0,125,474,212,503
+506,Startup,https://angel.co/company/hammerhead,Hammerhead,"
+A new-generation cycling¬†computer
+",3/1/2014,San Francisco,Fitness,Nov-50,Seed,4200000,hammerhead.io,6.238356164,673254.2819,1,0,25,2280,27,23
+507,Startup,https://angel.co/company/nursegrid,NurseGrid,"
+Scheduling and Staffing Technology Built for Nurses
+",9/1/2014,Portland,Hospitals,Nov-50,Seed,3760000,nursegrid.com,5.734246575,655709.5079,1,0,25,4738,1740,9738
+508,Startup,https://angel.co/company/kumu-wellness,Kumu Wellness,"
+Get a real Coach who‚Äôs dedicated to helping you achieve your health & fitness goals
+",2/1/2015,Los Angeles,Fitness,,Seed,3200000,getkumu.com,5.315068493,602061.8557,1,0,,0,0,0
+509,Startup,https://angel.co/company/aira,Aira,"
+Visual Interpreter
+",5/1/2015,San Diego,Assisitive Technology,Nov-50,Seed,4080000,aira.io,5.071232877,804538.0875,1,0,25,2367,777,2705
+510,Startup,https://angel.co/company/the-right-place-1,The Right Place,"
+Matching Patients to the right place of care. Referral and bed management for  LTC
+",10/1/2015,Houston,Hospitals,10-Jan,Seed,3600000,therightplace.com,4.652054795,773851.5901,1,0,5,0,0,0
+511,Startup,https://angel.co/company/wifi-metropolis-1,WIFI Metropolis,"
+WIFI Metropolis is monetizing the vast amount of unused WiFi capacity globally
+",7/1/2016,London,Health Care Information Technology,Nov-50,Seed,3200000,wifimetropolis.com,3.901369863,820224.7191,1,0,25,0,0,0
+512,Startup,https://angel.co/company/adverseevents,Advera Health Analytics,"
+gold standard resource for drug safety knowledge and insight
+",4/1/2011,Santa Rosa,SaaS,Nov-50,Series A,2965000,adverahealth.com,9.156164384,323825.5536,1,0,25,0,0,0
+513,Startup,https://angel.co/company/seamless-medical-systems,Seamless Medical Systems,"
+iPad patient registration and health information platform for use in medical practices
+",8/1/2011,Santa Fe,Healthcare,10-Jan,-,3000000,seamlessmedical.com,8.821917808,340062.1118,1,0,5,0,0,0
+514,Startup,https://angel.co/company/agilemd,AgileMD,"
+EHR-integrated pathways, analytics, and scoring tools
+",3/1/2012,San Francisco,Health Care Information Technology,10-Jan,Seed,2500000,agilemd.com,8.238356164,303458.5966,1,0,5,482,95,233
+515,Startup,https://angel.co/company/ringadoc,Ringadoc,"
+The Frontline of Virtual Care
+",3/1/2012,San Francisco,Personal Health,10-Jan,Acquired,2650000,ringadoc.com,8.238356164,321666.1124,1,0,5,3000,2533,1566
+516,Startup,https://angel.co/company/force-therapeutics,Force Therapeutics,"
+Leveraging clinical data to create content that prepares patients for the  journey
+",8/1/2012,New York City,Therapeutics,Nov-50,Series B,2600800,forcetherapeutics.com,7.819178082,332618.0799,1,0,25,0,0,0
+517,Startup,https://angel.co/company/benefitter,Benefitter,"
+Fidelity for Healthcare
+",11/1/2012,San Francisco,Insurance,Nov-50,Seed,2700000,benefitter.com,7.567123288,356806.6618,1,0,25,205,110,250
+518,Startup,https://angel.co/company/kyron,Kyron,"
+Big data for clinical insight
+",1/1/2014,Palo Alto,Data Mining,Nov-50,Seed,3000000,kyron.com,6.4,468750,1,0,25,369,313,4001
+519,Startup,https://angel.co/company/connectrn,connectRN,"
+Digital Nursing Marketplace
+",6/1/2014,Baltimore,Hospitals,Nov-50,Series A,3100000,connectrn.com,5.98630137,517848.9703,1,0,25,2252,1193,1509
+520,Startup,https://angel.co/company/optimizehealth,optimize.health,"
+optimize.health: Remote Patient Monitoring, Made Easy
+",8/1/2015,Seattle,Artificial Intelligence,Nov-50,Seed,2850000,optimize.health,4.819178082,591387.1518,1,0,25,0,0,0
+521,Startup,https://angel.co/company/envoy-helloenvoy,Envoy - HelloEnvoy,"
+Family Concierge Service
+",2/1/2015,San Francisco,E-Commerce Platforms,Nov-50,Seed,3000000,helloenvoy.com,5.315068493,564432.9897,1,0,25,0,0,0
+522,Startup,https://angel.co/company/zipdrug,Zipdrug,"
+Powering the Pharmacy of the Future
+",10/1/2015,New York City,Big Data Analytics,Nov-50,Seed,2600000,zipdrug.com,4.652054795,558892.8151,1,0,25,168,319,8
+523,Startup,https://angel.co/company/pine-biotech,Pine Biotech,"
+Bioinformatics for Personalized Medicine
+",5/1/2015,New Orleans,Big Data Analytics,10-Jan,Seed,2550000,pine-biotech.com,5.071232877,502836.3047,1,0,5,0,0,0
+524,Startup,https://angel.co/company/everlywell,EverlyWell,"
+Next-Generation Health Testing Platform
+",10/1/2015,Austin,Diagnostics,Nov-50,Seed,3000000,everlywell.com,4.652054795,644876.3251,1,0,25,2,52,14
+525,Startup,https://angel.co/company/clarahealth,Clara,"
+Empower patients to connect with the right clinical trial for them
+",11/1/2015,San Francisco,Clinical Trials,10-Jan,Seed,3000000,clarahealth.com,4.567123288,656868.6263,1,0,5,2483,690,1568
+526,Startup,https://angel.co/company/elemeno-health,Elemeno Health,"
+Point of Care Microlearning, as a Service. Bite-sized training and communication at your fingertips
+",4/1/2016,Oakland,Training,Nov-50,Closed,3035000,elemenohealth.com,4.150684932,731204.6205,1,0,25,0,0,0
+527,Startup,https://angel.co/company/mdacne,MDacne (YC W17),"
+Building the future of Dermatology, starting with acne
+",5/1/2016,San Francisco,Mobile Health,10-Jan,Seed,2600000,mdacne.com,4.068493151,639057.2391,1,0,5,0,0,0
+528,Startup,https://angel.co/company/array-analytics-1,Array Analytics,"
+Changing the Way Health Systems Think About Strategic Planning
+",8/1/2016,Philadelphia,Health Care Information Technology,Nov-50,Seed,3000000,pivotal.co,3.816438356,786073.2233,1,0,25,0,0,0
+529,Startup,https://angel.co/company/no-isolation,No Isolation,"
+We create tailored communication tools to put an end to loneliness
+",5/1/2017,Amsterdam,Robotics,51-200,Seed,2800000,noisolation.com,3.068493151,912500,1,0,125,0,0,0
+530,Startup,https://angel.co/company/fanfare-entertainment,Fanfare / Apollo Health Technologies,"
+Fanfare has created an industry-leading mobile engagement platform
+",1/1/2011,Burlingame,Celebrity,Nov-50,Closed,2100000,fanfareentertainment.com,9.402739726,223339.1608,1,0,25,0,0,0
+531,Startup,https://angel.co/company/cloudprime-quickdrop,CloudPrime QuickDrop‚Ñ¢,"
+Endpoint Encryption for private delivery of files & application messages
+",7/1/2011,San Francisco,Data Security,Nov-50,Series B,2000000,quickdropit.com,8.906849315,224546.2934,0,0,25,0,0,0
+532,Startup,https://angel.co/company/healthcrowd,HealthCrowd,"
+Industry's first end-to-end communications solution
+",3/1/2013,San Mateo,Mobile Health,Nov-50,Seed,2100000,healthcrowd.com,7.238356164,290121.1204,1,0,25,2120,1056,1359
+533,Startup,https://angel.co/company/imagistx,Imagistx,"
+World's only ultra-high frequency ultrasound product for the prostate
+",3/1/2013,Toronto,Medical Devices,10-Jan,Series B,2000000,imagistxprostate.com,7.238356164,276305.8289,0,0,5,0,0,0
+534,Startup,https://angel.co/company/careplanners,CarePlanners,"
+Making life easier for family caregivers (90M+ Americans) (LearnVest for caregiving)
+",5/1/2013,New York City,Professional Services,10-Jan,Seed,2050000,careplanners.com,7.071232877,289907.0128,1,0,5,995,1892,834
+535,Startup,https://angel.co/company/rise-2,Rise,"
+Affordable & effective 1:1 nutrition coaching
+",10/1/2013,San Francisco,,10-Jan,Acquired,2300000,rise.us,6.652054795,345757.8254,1,0,5,2290,289,2404
+536,Startup,https://angel.co/company/telepharm,TelePharm,"
+Telemedicine platform for pharmacies (and everyone)
+",10/1/2013,Iowa City,Video Chat,Nov-50,-,2500000,telepharm.com,6.652054795,375823.7232,1,0,25,4,0,0
+537,Startup,https://angel.co/company/fitplan-technologies-inc,Fitplan,"
+Get the exact training methods of influencers and athletes who inspire you
+",1/1/2014,Vancouver,Fitness,Nov-50,Seed,2125000,fitplanapp.com,6.4,332031.25,1,0,25,5,0,0
+538,Startup,https://angel.co/company/lawn-love,Lawn Love Lawn Care,"
+Lawn care, made easy. (YC S14)
+",5/1/2014,San Diego,Service Industries,51-200,Seed,2020000,lawnlove.com,6.071232877,332716.6065,1,0,125,0,0,0
+539,Startup,https://angel.co/company/diplopia,Vivid Vision,"
+VR Vision Care Platform
+",6/1/2015,San Francisco,Virtual Reality,Nov-50,Seed,2200000,seevividly.com,4.98630137,441208.7912,1,0,25,0,0,0
+540,Startup,https://angel.co/company/i-human-patients,i-Human Patients,"
+",3/1/2016,Sunnyvale,Education Technology,Nov-50,Series A,2000000,i-human.com,4.235616438,472186.2872,0,0,25,0,0,0
+541,Startup,https://angel.co/company/klarismo,Klarismo,"
+Your body, reimagined
+",1/1/2015,London,Personal Health,10-Jan,Seed,2100000,klarismo.com,5.4,388888.8889,1,0,5,229,219,181
+542,Startup,https://angel.co/company/neurogenica,Neurogenica,"
+Systems Biology and genomics let us design curative treatments for Alzheimer's Disease
+",9/1/2015,Palo Alto,Neuroscience,10-Jan,Seed,2500000,neuro-genica.com,4.734246575,528067.1296,1,0,5,0,0,0
+543,Startup,https://angel.co/company/collectly,Collectly,"
+Data-Driven Patient Billing Platform
+",6/1/2016,Pasadena,Finance Technology,10-Jan,Seed,2020000,collectly.co,3.983561644,507083.9065,1,0,5,11,29,48
+544,Startup,https://angel.co/company/welltory,Welltory,"
+AI Health Coach App People Love
+",10/1/2016,San Francisco,Corporate Wellness,Nov-50,Seed,2430000,welltory.com,3.649315068,665878.3784,1,0,25,1004,345,1338
+545,Startup,https://angel.co/company/captionhealth,Caption Health,"
+Our vision is to move specialty diagnostics and decision-making to the poc for every patient exam
+",6/1/2017,Brisbane,Diagnostics,Nov-50,Series A,2500000,captionhealth.com,2.983561644,837924.7016,1,0,25,0,0,0
+546,Startup,https://angel.co/company/medical-memory,Medical Memory,"
+Healthcare video recording and sharing
+",7/1/2016,Phoenix,Startups,10-Jan,Seed,2100000,themedicalmemory.com,3.901369863,538272.4719,1,0,5,0,0,0
+547,Startup,https://angel.co/company/bloomapi,BloomAPI (YC W17),"
+Simplify Medical Practice Management
+",4/1/2017,Seattle,Electronic Health Records,10-Jan,Seed,2400000,bloomtext.com,3.150684932,761739.1304,1,0,5,0,0,0
+548,Startup,https://angel.co/company/genoatelepsychiatry,Genoa Telepsychiatry,"
+Increasing access to care in underserved communities
+",4/1/2012,New York City,Video Chat,Nov-50,Seed,1700000,genoatelepsychiatry.com,8.153424658,208501.3441,0,0,25,0,0,0
+549,Startup,https://angel.co/company/docphin,Docphin,"
+The Bloomberg for Doctors
+",10/1/2011,New York City,Mobile Health,10-Jan,Seed,1605000,docphin.com,8.654794521,185446.3438,0,0,5,2520,974,1326
+550,Startup,https://angel.co/company/zenso,Lief Therapeutics,"
+Smart patch for stress and anxiety
+",11/1/2011,San Francisco,Medical Devices,10-Jan,Seed,1670000,getlief.com,8.569863014,194868.9258,0,0,5,0,0,0
+551,Startup,https://angel.co/company/dorsata,Dorsata,"
+Driving better clinical decisions that are informed by patient data and best practices
+",10/1/2013,Washington DC,Health Care Information Technology,10-Jan,Seed,1745000,dorsata.com,6.652054795,262324.9588,0,0,5,7,0,8
+552,Startup,https://angel.co/company/mindbloom,Mindbloom,"
+Mobile Wellness Platform
+",10/1/2013,Seattle,mHealth,Nov-50,Seed,1800000,mindbloom.com,6.652054795,270593.0807,0,0,25,1578,1599,1823
+553,Startup,https://angel.co/company/nurep,Nurep,"
+Telesurgery - Stanford StartX Med
+",3/1/2013,Palo Alto,Medical Devices,10-Jan,Seed,1800000,nurep.com,7.238356164,248675.246,0,0,5,7,1,0
+554,Startup,https://angel.co/company/lift-labs,Lift Labs,"
+Active Stabilization for Parkinson's and Essential Tremor Patients
+",12/1/2012,San Francisco,Medical Devices,10-Jan,Acquired,1900000,liftlabsdesign.com,7.484931507,253843.3382,0,0,5,0,0,0
+555,Startup,https://angel.co/company/sense-health,Sense Health,"
+Smart communication designed for healthcare
+",12/1/2012,New York City,Mobile Health,Nov-50,Seed,2000000,sensehealth.com,7.484931507,267203.5139,0,0,25,0,0,0
+556,Startup,https://angel.co/company/medicast,Medicast,"
+Care on-demand platform for hospitals and health systems (ACQUIRED)
+",2/1/2013,Silicon Valley,Mobile Health,10-Jan,Acquired,1940000,medicast.com,7.315068493,265205.9925,0,0,5,1189,736,827
+557,Startup,https://angel.co/company/electronic-health-network,Electronic Health Network,"
+Share Medical Records Securely
+",4/1/2013,Charleston,Business Services,10-Jan,Seed,1900000,enhsc.com,7.153424658,265607.0471,0,0,5,0,0,0
+558,Startup,https://angel.co/company/moves,Moves,"
+Let your phone tell you how much you move
+",5/1/2013,Helsinki,Fitness,10-Jan,Acquired,1600000,moves-app.com,7.071232877,226268.888,0,0,5,136,0,2
+559,Startup,https://angel.co/company/hyginex,Hyginex,"
+Hand washing & quality monitoring system to reduce hospital acquired infections
+",7/1/2013,Los Angeles,Medical Devices,Nov-50,Seed,2000000,hyginex.com,6.904109589,289682.5397,0,0,25,3,0,4
+560,Startup,https://angel.co/company/vint,Vint,"
+SaaS: a social booking platform 
+",10/1/2013,San Francisco,Fitness,10-Jan,Seed,1800000,joinvint.com,6.652054795,270593.0807,0,0,5,5,37,16
+561,Startup,https://angel.co/company/ava-me,Ava Accessibility,"
+Live subtitles for any conversation. enjoy 24/7 access to conversations around you
+",3/1/2014,San Francisco,Communications Hardware,Nov-50,-,1845000,ava.me,6.238356164,295750.9881,0,0,25,0,0,0
+562,Startup,https://angel.co/company/icmed,ICmed,"
+Patient engagement and nimble TeleHealth platform connecting providers, patients and families
+",1/1/2020,Baltimore,Mobile Health,10-Jan,Pre-Seed,1750000,icmedonline.com,0.397260274,4405172.414,0,0,5,1,1,0
+563,Startup,https://angel.co/company/medstack,MedStack,"
+Accelerated HIPAA privacy compliance and secure data integration for healthcare apps
+",7/1/2015,Toronto,Application Platforms,Nov-50,Seed,1800000,medstack.co,4.904109589,367039.1061,0,0,25,1067,669,2033
+564,Startup,https://angel.co/company/advitam,AdVitam,"
+Funerals made simple & affordable
+",1/1/2016,Paris,Startups,10-Jan,Seed,1800000,advitam.fr,4.4,409090.9091,0,0,5,0,0,1
+565,Startup,https://angel.co/company/finexio,Finexio,"
+Commercial Payments Execution as a Service
+",2/1/2016,Orlando,Legal,Nov-50,Seed,2000000,finexio.com,4.315068493,463492.0635,0,0,25,0,0,0
+566,Startup,https://angel.co/company/iexhale,iExhale,"
+Telemental Health App
+",4/1/2016,Los Angeles,Personal Health,10-Jan,Seed,1860000,iexhale.com,4.150684932,448118.8119,0,0,5,1,14,1
+567,Startup,https://angel.co/company/titanfile,TitanFile,"
+The easiest and most comprehensive way to correspond and share files in total security
+",5/1/2011,Toronto,Insurance,10-Jan,Seed,1350000,titanfile.com,9.073972603,148777.1739,0,0,5,754,625,2171
+568,Startup,https://angel.co/company/care-at-hand,Care at Hand,"
+Predictive Analytics Powered by Non-medical Staff
+",11/1/2011,San Francisco,Mobile Health,10-Jan,Acquired,1350000,careathand.com,8.569863014,157528.7724,0,0,5,0,0,0
+569,Startup,https://angel.co/company/touchsurgery,Touch Surgery,"
+The OR in your Pocket
+",9/1/2012,London,Health Care Information Technology,Nov-50,Acquired,1500000,touchsurgery.com,7.734246575,193942.6142,0,0,25,0,0,0
+570,Startup,https://angel.co/company/breathometer,Breathometer,"
+The World's First Consumer Breath Analysis Platform
+",1/1/2013,Burlingame,Consumer Electronics,Nov-50,Seed,1540000,breathometer.com,7.4,208108.1081,0,0,25,4006,2390,644
+571,Startup,https://angel.co/company/welltrackone,WellTrackONE,"
+Provides exact report required by Medicare for Annual Wellness Visit (AWV)
+",3/1/2013,Hilton Head Island,Health Care Information Technology,Nov-50,-,1500000,welltrackone.com,7.238356164,207229.3717,0,0,25,168,86,211
+572,Startup,https://angel.co/company/credsimple,CredSimple,"
+Helping healthcare organizations become more responsive to providers, members and patients
+",3/1/2013,New York City,Hospitals,Nov-50,Seed,1500000,credsimple.com,7.238356164,207229.3717,0,0,25,1044,2827,5697
+573,Startup,https://angel.co/company/queuedr,QueueDr,"
+Healthcare's #1 automation software
+",10/1/2013,Austin,Mobile Health,Nov-50,Series A,1530000,queuedr.com,6.652054795,230004.1186,0,0,25,342,177,999
+574,Startup,https://angel.co/company/changerscom,Changers.com,"
+Get active against Climate Change and get paid for it
+",3/1/2016,Berlin,Corporate Wellness,Nov-50,Series A,1500000,changers.com,4.235616438,354139.7154,0,0,25,0,0,0
+575,Startup,https://angel.co/company/sparo-health,Sparo,"
+Helping seniors regain their strength and independence
+",8/1/2013,St. Louis,Medical Devices,10-Jan,Seed,1325000,sparohealth.com,6.819178082,194304.9417,0,0,5,0,0,0
+576,Startup,https://angel.co/company/bridgecrest-medical,Bridgecrest Medical,"
+Prevent accidents before they happen! (wearables)
+",3/1/2014,San Francisco,SaaS,10-Jan,Acquired,1400000,bridgecrestmed.com,6.238356164,224418.094,0,0,5,0,0,0
+577,Startup,https://angel.co/company/episona,Episona,"
+Opening our minds to men's reproductive health
+",1/1/2014,Los Angeles,Medical Devices,10-Jan,Seed,1375000,episona.com,6.4,214843.75,0,0,5,0,0,0
+578,Startup,https://angel.co/company/savvydox,SavvyDox,"
+DropBox on Steroids
+",1/1/2014,Ottawa,Legal,10-Jan,Seed,1505000,savvydox.com,6.4,235156.25,0,0,5,76,22,79
+579,Startup,https://angel.co/company/restorehealth,Restore Health,"
+Reverse chronic disease with software
+",1/1/2014,Palo Alto,Corporate Wellness,Nov-50,Seed,1500000,restorehealth.com,6.4,234375,0,0,25,0,0,0
+580,Startup,https://angel.co/company/amstatz,amSTATZ,"
+Cloud-based software for personal trainers and studios
+",2/1/2014,Chicago,Fitness,Nov-50,Seed,1450000,amstatz.com,6.315068493,229609.5445,0,0,25,833,360,2519
+581,Startup,https://angel.co/company/onelife-me,Onelife Health,"
+The medical network that empowers women to take ownership of their maternity care
+",3/1/2014,Hamburg,Women-Focused,10-Jan,Seed,1500000,onelife.me,6.238356164,240447.9578,0,0,5,0,0,0
+582,Startup,https://angel.co/company/e-skin-displays-1,e-skin Displays,"
+Introducing worlds first flexible full color display,a few microns thick,shows image/video
+",10/1/2015,Pleasanton,DOD/Military,10-Jan,Seed,1450000,eskindisplays.com,4.652054795,311690.2238,0,0,5,0,0,0
+583,Startup,https://angel.co/company/greenspace,Greenspace Mental Health,"
+Transforming how mental healthcare is accessed, measured and delivered
+",10/1/2015,Kelowna,Technology,Nov-50,Seed,1500000,greenspacehealth.ca,4.652054795,322438.1625,0,0,25,0,0,0
+584,Startup,https://angel.co/company/phr,PHR Plus,"
+Connected Health Solutions, Improving Patient Outcomes
+",10/1/2015,Phoenix,Internet of Things,10-Jan,Seed,1360000,phrplus.com,4.652054795,292343.934,0,0,5,0,0,0
+585,Startup,https://angel.co/company/health-vectors-1,Health Vectors,"
+Change the way health data is looked at. Personalize it for better health outcomes
+",1/1/2016,Bengaluru,Predictive Analytics,Nov-50,Series A,1500000,healthvectors.in,4.4,340909.0909,0,0,25,0,0,0
+586,Startup,https://angel.co/company/watsi,Watsi,"
+Building technology to finance healthcare for everyone
+",7/1/2013,Remote,Crowdfunding,Nov-50,Seed,1200000,watsi.org,6.904109589,173809.5238,0,0,25,7391,1091,5698
+587,Startup,https://angel.co/company/digitalmr,DigitalMR,"
+Next Generation Market Research
+",3/1/2014,London,Fast-Moving Consumer Goods,Nov-50,Seed,1020000,digital-mr.com,6.238356164,163504.6113,0,0,25,4563,4298,6113
+588,Startup,https://angel.co/company/colowrap,ColoWrap,"
+Delivering quicker, easier, more effective colonoscopies
+",3/1/2015,Durham,Medical Devices,10-Jan,Series A,1225000,colowrap.com,5.238356164,233851.9874,0,0,5,156,469,1129
+589,Startup,https://angel.co/company/telmedx,telmedx,"
+High-resolution video and diagnostic image capture from mobile phones or tablets
+",2/1/2013,Jackson,Health Care Information Technology,10-Jan,Seed,1300000,telmedx.com,7.315068493,177715.3558,0,0,5,257,796,57
+590,Startup,https://angel.co/company/biomed,BioMed,"
+VISION save 1001 lives a day via personalized medicine by point of care diagnostic testing
+",5/1/2013,Rochester,Mobile Health,10-Jan,Seed,1250000,biomed.mn,7.071232877,176772.5688,0,0,5,0,0,0
+591,Startup,https://angel.co/company/babybe,BABYBE,"
+Keep kangaroo caring
+",6/1/2013,Edinburgh,Medical Devices,10-Jan,Series B,1165500,babybemedical.com,6.98630137,166826.4706,0,0,5,13,0,0
+592,Startup,https://angel.co/company/petbrosia,Petbrosia,"
+Nutrition Designed For YOUR Pet
+",6/1/2013,Cincinnati,Pets,10-Jan,Seed,1160000,petbrosia.com,6.98630137,166039.2157,0,0,5,1133,685,1905
+593,Startup,https://angel.co/company/seamlessmd,SeamlessMD,"
+Educate, engage and monitor patients through surgery
+",6/1/2013,Toronto,Hospitals,Nov-50,Seed,1100000,seamless.md,6.98630137,157450.9804,0,0,25,3579,1811,724
+594,Startup,https://angel.co/company/birdi,Birdi,"
+Elegant Smart Home Products
+",8/1/2013,San Francisco,Consumer Electronics,10-Jan,Seed,1200000,birdihome.com,6.819178082,175974.2869,0,0,5,1903,2138,870
+595,Startup,https://angel.co/company/annexon-1,Annexon,"
+Innovative neurodegeneration therapeutics by targeting complement
+",8/1/2013,Palo Alto,Pharmaceuticals,10-Jan,Seed,1167000,gust.com,6.819178082,171134.994,0,0,5,58,298,10
+596,Startup,https://angel.co/company/filelife,FileLife,"
+Secure and Remain in Control of the Files, Documents and Photos you Share
+",11/1/2013,Redding,Legal,10-Jan,Seed,1200000,web.filelife.com,6.567123288,182728.4105,0,0,5,22,30,10
+597,Startup,https://angel.co/company/narrativedx,NarrativeDx,"
+The AI platform for Patient Experience Improvement
+",1/1/2014,Austin,Hospitals,Nov-50,Seed,1250000,narrativedx.com,6.4,195312.5,0,0,25,1107,1438,2138
+598,Startup,https://angel.co/company/accel-diagnostics-2,Accel Diagnostics,"
+Blood Tests Made Easy - Anytime, Anywhere - for Better Patient Care
+",3/1/2014,Berkeley,Diagnostics,10-Jan,Seed,1175000,acceldx.com,6.238356164,188350.9003,0,0,5,0,0,0
+599,Startup,https://angel.co/company/branching-minds,Branching Minds,"
+Better student outcomes through learning science + technology 
+",3/1/2014,New York City,Neuroscience,10-Jan,Seed,1170000,branchingminds.com,6.238356164,187549.4071,0,0,5,0,0,0
+600,Startup,https://angel.co/company/tracktrain,Vault RMS,"
+Utilizing data to save firefighters
+",6/1/2014,San Diego,Governments,10-Jan,Acquired,1300000,vaultexposuretracker.com,5.98630137,217162.4714,0,0,5,0,0,0
+601,Startup,https://angel.co/company/iscribes,iScribes,"
+Medical documentation for the modern physician
+",7/1/2015,Durham,SaaS,51-200,Seed,1040000,iscribes.co,4.904109589,212067.0391,0,0,125,2,16,5
+602,Startup,https://angel.co/company/etreat-medical-diagnostics,eTreat Medical Diagnostics,"
+We turn smartphones into measurement imaging devices for orthopaedic and skin conditions
+",10/1/2014,Vancouver,Medical Devices,Nov-50,Seed,1178128,etreatmd.com,5.652054795,208442.4237,0,0,25,0,0,0
+603,Startup,https://angel.co/company/yosi,Yosi,"
+Digital patient engagement platform 
+",4/1/2015,New York City,Mobile Health,10-Jan,Pre-Seed,1250000,yosicare.com,5.153424658,242557.1505,0,0,5,666,760,9368
+604,Startup,https://angel.co/company/spirohome,Spirohome,"
+Digital health platform for asthma, COPD and cystic fibrosis patients
+",5/1/2017,Ankara,Digital Health,Nov-50,Seed,1110220,spirohome.io,3.068493151,361812.7679,0,0,25,1259,771,382
+605,Startup,https://angel.co/company/doctorbase-acquired-by-kareo,DoctorBase (acquired by Kareo),"
+Patient Engagement Software
+",12/1/2010,San Francisco,Heathcare,Nov-50,Seed,1000000,DoctorBase.com,9.487671233,105399.9422,0,0,25,0,0,0
+606,Startup,https://angel.co/company/venga,Venga,"
+Empowering Businesses to Enhance Customer Experiences
+",11/1/2011,Washington DC,Fitness,Nov-50,Acquired,1000000,getvenga.com,8.569863014,116687.9795,0,0,25,170,594,50
+607,Startup,https://angel.co/company/xetal,Xetal,"
+Indoor localisation without wearables
+",4/1/2013,Belgium,Electronics,10-Jan,Seed,1000000,xetal.eu,7.153424658,139793.1827,0,0,5,5,1,0
+608,Startup,https://angel.co/company/movecoach,Runcoach,"
+The real person app
+",12/1/2012,Burlingame,Corporate Wellness,Nov-50,Seed,1000000,runcoach.com,7.484931507,133601.757,0,0,25,2,1,0
+609,Startup,https://angel.co/company/ikkos,IKKOS,"
+Learn Any Physical Movement Through Your Smartphone
+",2/1/2013,Seattle,Wearables,10-Jan,Seed,1000000,ikkos.com,7.315068493,136704.1199,0,0,5,7,88,2
+610,Startup,https://angel.co/company/meducation,Meducation,"
+Educational LinkedIn For Medics
+",7/1/2013,Birmingham,Technology,10-Jan,Seed,1000000,meducation.net,6.904109589,144841.2698,0,0,5,5902,23,2315
+611,Startup,https://angel.co/company/luminate-health,Luminate Health,"
+Helping patients access and understand their lab results
+",2/1/2015,San Mateo,Digital Health,10-Jan,Seed,1000000,luminatehealth.com,5.315068493,188144.3299,0,0,5,0,0,0
+612,Startup,https://angel.co/company/biogeniq-1,BIOGENIQ,"
+Provide personalized medicine ecosystem
+",9/1/2013,Montreal,Nutrition,10-Jan,Seed,980000,BIOGENIQ.ca,6.734246575,145524.8169,0,0,5,375,394,507
+613,Startup,https://angel.co/company/zendyhealth,ZendyHealth,"
+Affordable health and dental care, made easy
+",10/1/2013,Los Angeles,Finance Technology,10-Jan,Seed,1000000,zendyhealth.com,6.652054795,150329.4893,0,0,5,3926,2667,1837
+614,Startup,https://angel.co/company/goodmouth,GoodMouth,"
+Oral Care. Delivered
+",6/1/2014,New York City,Subscription Businesses,10-Jan,Seed,1005000,goodmouth.com,5.98630137,167883.2952,0,0,5,3,2,15
+615,Startup,https://angel.co/company/lift-digital,LIFT Digital,"
+virtual personal training & marketplace
+",2/1/2015,Montreal,Fitness,Nov-50,Seed,1000000,liftsession.com,5.315068493,188144.3299,0,0,25,0,0,0
+616,Startup,https://angel.co/company/veristride-1,Veristride,"
+better living and healing through data
+",2/1/2015,Salt Lake City,Internet of Things,10-Jan,Seed,1000000,veristride.com,5.315068493,188144.3299,0,0,5,248,445,529
+617,Startup,https://angel.co/company/fitdel,FitDel,"
+Premium fitness equipment rentals for the B2B & B2C circular economy
+",3/1/2015,Austin,Fitness,10-Jan,Seed,984000,fitdel.com,5.238356164,187845.1883,0,0,5,3,19,0
+618,Startup,https://angel.co/company/dibs-technology,Dibs Technology,"
+The all-in-one software solution for fitness studios to maximize revenue through pricing
+",12/1/2015,New York City,Fitness,10-Jan,Seed,1000000,ondibs.com,4.484931507,222968.8454,0,0,5,0,0,0
+619,Startup,https://angel.co/company/fitpassindia,FITPASS,"
+All-access pass to 3500+ gyms & fitness studios, personal nutritionists & workout videos
+",1/1/2016,Kolkata,Fitness,Nov-50,Seed,1000000,fitpass.co.in,4.4,227272.7273,0,0,25,12195,15705,1
+620,Startup,https://angel.co/company/storiicare,StoriiCare,"
+Senior Care co-ordination platform
+",2/1/2016,San Francisco,mHealth,10-Jan,Pre-Seed,1020000,storiicare.com,4.315068493,236380.9524,0,0,5,9113,6279,2371
+621,Startup,https://angel.co/company/miiskin,Miiskin,"
+Miiskin is a platform that helps people with identifying changes on their skin
+",4/1/2016,Copenhagen,Mobile Health,10-Jan,Seed,1000000,miiskin.com,4.150684932,240924.0924,0,0,5,214,432,740
+622,Startup,https://angel.co/company/deskyogi,Desk Yogi,"
+Desk Yogi is the 5 minute online wellness solution designed for busy work life
+",10/1/2016,Ojai,B2B,Nov-50,Seed,1000000,desk-yogi.com,3.649315068,274024.024,0,0,25,0,0,0
+623,Startup,https://angel.co/company/styku,Styku,"
+3D body scanning tech for fitness, health, and wellness
+",4/1/2011,Los Angeles,Medical Devices,10-Jan,Seed,810000,styku.com,9.156164384,88464.99102,0,0,5,5,0,12
+624,Startup,https://angel.co/company/beyond-lucid-technologies,Beyond Lucid Technologies,"
+Connect Fire-EMS agencies across the care continuum in real-time, and over time (COVID-19)
+",7/1/2011,Concord,Mobile Emergency&Health,10-Jan,Seed,955000,beyondlucid.com,8.906849315,107220.8551,0,0,5,0,0,0
+625,Startup,https://angel.co/company/kinsights,Kinsights,"
+Smarter Advice and Support for Parents
+",7/1/2011,San Francisco,Health Care Information Technology,10-Jan,Acquired,820000,kinsights.com,8.906849315,92063.98031,0,0,5,8910,5981,2507
+626,Startup,https://angel.co/company/sickweather,Sickweather,"
+Waze for sickness
+",11/1/2011,Baltimore,Mobile Health,10-Jan,Seed,870000,sickweather.com,8.569863014,101518.5422,0,0,5,3409,941,6094
+627,Startup,https://angel.co/company/truvitals,TruVitals,"
+Zero Contact Vital Signs Monitoring
+",1/1/2014,Gainesville,Veterinary,10-Jan,Seed,870000,truvitals.co,6.4,135937.5,0,0,5,0,0,0
+628,Startup,https://angel.co/company/meludia,Meludia,"
+Musical Brain Training
+",8/1/2013,Paris,Music Education,Nov-50,Seed,888350,meludia.com,6.819178082,130272.2981,0,0,25,0,3,3
+629,Startup,https://angel.co/company/fibroblast,Fibroblast,"
+Automated, closed-loop healthcare referrals
+",3/1/2013,Chicago,Startups,10-Jan,-,875000,fibroblast.com,7.238356164,120883.8002,0,0,5,5,20,1
+630,Startup,https://angel.co/company/seratis,Seratis,"
+Team transparency platform enabling care coordination for healthcare providers
+",4/1/2013,Boston,Communications Infrastructure,10-Jan,Acquired,890000,seratis.com,7.153424658,124415.9326,0,0,5,1,0,2
+631,Startup,https://angel.co/company/fullcontour-1,FullContour,"
+FullContour. You scan, We Design
+",9/1/2013,Phoenix,Product Design,10-Jan,Seed,950000,fullcontour.com,6.734246575,141069.9756,0,0,5,53,155,12
+632,Startup,https://angel.co/company/instafit,InstaFit,"
+#1 fitness app in Latam. We hook users on working out twice as effectively as a gym
+",8/1/2013,Mexico City,Fitness,Nov-50,Seed,870000,instafit.com,6.819178082,127581.358,0,0,25,129,59,39
+633,Startup,https://angel.co/company/entac-medical,Entac Medical,"
+Late-stage medical device for predictive and diagnostic medicine
+",11/1/2013,Memphis,Medical Devices,10-Jan,Series A,830000,entacmedical.com,6.567123288,126387.1506,0,0,5,0,0,0
+634,Startup,https://angel.co/company/likeminder,Likeminder,"
+The social network for your private life
+",10/1/2013,New York City,Corporate Wellness,10-Jan,Seed,850000,likeminder.net,6.652054795,127780.0659,0,0,5,105,544,1037
+635,Startup,https://angel.co/company/avhana-health,Avhana Health,"
+A Smart Assistant in the Electronic Health Record
+",2/1/2014,Baltimore,Electronic Health Records,10-Jan,Seed,800000,avhana.com,6.315068493,126681.128,0,0,5,0,0,0
+636,Startup,https://angel.co/company/veep-nutrition,VEEP Nutrition,"
+Functional food targeting
+",8/1/2014,Irvine,Fitness,,Seed,925000,veep.com,5.819178082,158957.1563,0,0,,0,0,0
+637,Startup,https://angel.co/company/disease-diagnostic-group,Disease Diagnostic Group,"
+Diagnostic tests for malaria
+",10/1/2014,Boston,Diagnostics,10-Jan,Seed,827000,diseasediagnostic.com,5.652054795,146318.4683,0,0,5,0,0,0
+638,Startup,https://angel.co/company/horus-technology,Horus Technology,"
+Wearable personal assistant for the blind and visually impaired
+",9/1/2014,Milan,Computer Vision,10-Jan,Seed,900000,horus.technology,5.734246575,156951.7439,0,0,5,0,0,0
+639,Startup,https://angel.co/company/enlightiks,Enlightiks,"
+Self Service Predictive Analytics
+",10/1/2014,Palo Alto,Predictive Analytics,Nov-50,Seed,935000,enlightiks.com,5.652054795,165426.5633,0,0,25,2,0,0
+640,Startup,https://angel.co/company/active-global-specialised-caregivers,Active Global Specialised Caregivers,"
+Professional, Affordable Home Care in Asia
+",2/1/2015,Singapore,Hong Kong,51-200,Seed,900000,activeglobalcaregiver.com,5.315068493,169329.8969,0,0,125,0,0,0
+641,Startup,https://angel.co/company/umbie-dentalcare,Umbie DentalCare,"
+We deliver office management, practice accountability,  and patient engagement solutions
+",11/1/2011,East Hartford,Mobile Health,10-Jan,-,685000,umbiedentalcare.com,8.569863014,79931.26598,0,0,5,0,0,0
+642,Startup,https://angel.co/company/docasap,DocASAP,"
+Book timely doctor appointments online 24x7
+",1/1/2012,Herndon,Curated Web,Nov-50,Seed,799998,docasap.com,8.402739726,95206.8047,0,0,25,1032,1585,2934
+643,Startup,https://angel.co/company/digidoctor,DigiDoctor,"
+The Salesforce for healthcare. SaaS Patient Relationship Management
+",4/1/2012,Louisville,Customer Service,10-Jan,Seed,750000,digidoctor.com,8.153424658,91985.8871,0,0,5,13,5,0
+644,Startup,https://angel.co/company/kinergy-health,Kinergy Health,"
+Better care coordination & chronic care management with technology + care navigator model
+",12/1/2012,-,Health Care Information Technology,10-Jan,Seed,800000,kinergyhealth.com,7.484931507,106881.4056,0,0,5,0,0,0
+645,Startup,https://angel.co/company/nursebuddy,NurseBuddy,"
+Coordinate healthcare at home
+",5/1/2013,Tampere,Mobile Health,10-Jan,Seed,888000,nursebuddy.co,7.071232877,125579.2329,0,0,5,0,7,2
+646,Startup,https://angel.co/company/i7-networks,i7 Networks,"
+100% Agentless Enterprise Mobility Tool
+",2/1/2014,Bengaluru,High Tech,10-Jan,-,750000,i7nw.com,6.315068493,118763.5575,0,0,5,0,0,0
+647,Startup,https://angel.co/company/protocolsioplatform,protocols.io,"
+The #1 platform for designing and publishing science methods
+",4/1/2013,Berkeley,Biotechnology,Nov-50,Seed,780000,protocols.io,7.153424658,109038.6825,0,0,25,0,0,0
+648,Startup,https://angel.co/company/beckoncall,BeckonCall,"
+Zendesk meets Slack for doctors. No more pagers or fax machines
+",6/1/2015,Phoenix,Unifed Communications,10-Jan,Closed,800000,BeckonCall.com,4.98630137,160439.5604,0,0,5,235,409,518
+649,Startup,https://angel.co/company/body-details,Body Details,"
+Permanent Hair & Tattoo Removal, Guaranteed for life
+",5/1/2013,Miami,Personal Health,10-Jan,Seed,750000,BodyDetails.com,7.071232877,106063.5413,0,0,5,0,0,0
+650,Startup,https://angel.co/company/melon,"Melon (Acquired by DAQRI, 2015)","
+A Brain-Sensing (EEG) Headband and Mobile App to Measure Your Focus
+",3/1/2017,Los Angeles,Neuroscience,10-Jan,Acquired,750000,thinkmelon.com,3.235616438,231795.0889,0,0,5,0,0,0
+651,Startup,https://angel.co/company/angelmd,angelMD,"
+Equity Crowdfunding for Medical Startups
+",7/1/2013,Seattle,Medical Devices,Nov-50,Seed,750000,angelmd.co,6.904109589,108630.9524,0,0,25,6,20,0
+652,Startup,https://angel.co/company/yilaime,Yilaime,"
+China‚Äôs next Shanghai and Tmall too!
+",10/1/2013,Las Vegas,Hospitals,10-Jan,Seed,750000,usaexportstochina.com,6.652054795,112747.117,0,0,5,1,8,0
+653,Startup,https://angel.co/company/cell-machines-1,Cell Machines,"
+High efficiency production of human therapeutic proteins
+",1/1/2014,Houston,Therapeutics,10-Jan,Seed,700000,cellmachines.net,6.4,109375,0,0,5,0,0,0
+654,Startup,https://angel.co/company/truclinic,TruClinic,"
+Video communication for healthcare, telemedicine made easy
+",3/1/2014,Salt Lake City,Mobile Health,10-Jan,-,720000,truclinic.com,6.238356164,115415.0198,0,0,5,0,0,0
+655,Startup,https://angel.co/company/cubii,Cubii,"
+Smart Under-Desk Elliptical
+",10/1/2014,Chicago,Fitness,Nov-50,Seed,693000,mycubii.com,5.652054795,122610.2763,0,0,25,1375,1287,2151
+656,Startup,https://angel.co/company/headsuphealth,Heads Up Health,"
+Personalized Health Analytics
+",10/1/2014,Scottsdale,Quantified Self,10-Jan,Seed,800000,headsuphealth.com,5.652054795,141541.4445,0,0,5,0,0,0
+657,Startup,https://angel.co/company/near-infrared-imaging,Near Infrared Imaging,"
+Vein illumination and visualization
+",7/1/2015,Wrentham,Healthcare,-,Seed,800000,nearinfraredimaging.com,4.904109589,163128.4916,0,0,,0,0,0
+658,Startup,https://angel.co/company/red-mind-solutions,Red Mind Solutions,"
+Vastly improved healthcare intervention services
+",7/1/2015,Tampa,Data,10-Jan,Seed,758000,redmindinc.com,4.904109589,154564.2458,0,0,5,0,0,0
+659,Startup,https://angel.co/company/innovere-medical-2,Innovere Medical,"
+We make MRIs comfortable and enjoyable
+",8/1/2015,Markham,Medical Devices,Nov-50,Seed,710000,innovereMedical.com,4.819178082,147328.0273,0,0,25,0,0,0
+660,Startup,https://angel.co/company/charge-running,Charge Running,"
+Live Running Classes for any level
+",2/1/2017,Chicago,Fitness,Nov-50,Seed,675000,chargerunning.com,3.312328767,203784.1191,0,0,25,0,0,0
+661,Startup,https://angel.co/company/datagenno,DataGenno,"
+Portal for health care professionals and patients
+",3/1/2011,Chicago,Pharmaceuticals,10-Jan,Seed,600000,datagenno.com,9.24109589,64927.36436,0,0,5,61,34,1
+662,Startup,https://angel.co/company/improve,Improve,"
+Online Marketplace for Fitness & Tennis Training
+",11/1/2011,Austin,Fitness,Nov-50,Seed,650000,fitnesstrainer.com,8.569863014,75847.1867,0,0,25,14,0,1
+663,Startup,https://angel.co/company/nudge-5,Nudge,"
+Klout for Health Tracking
+",8/1/2013,Richmond,Mobile Health,10-Jan,Seed,600000,nudgeyourself.com,6.819178082,87987.14343,0,0,5,0,0,0
+664,Startup,https://angel.co/company/klinify,klinify,"
+Digital Medical Assistant 
+",2/1/2013,Singapore,Mobile Health,Nov-50,Acquired,605000,klinify.com,7.315068493,82705.99251,0,0,25,207,892,431
+665,Startup,https://angel.co/company/activeprotective-1,ActiveProtective,"
+Preventing hip fractures in the elderly
+",3/1/2013,Philadelphia,Medical Devices,10-Jan,Seed,600000,activeprotective.com,7.238356164,82891.74868,0,0,5,0,0,0
+666,Startup,https://angel.co/company/image32,image32,"
+A disruptive approach to medical image sharing
+",3/1/2013,Menlo Park,Cloud Computing,10-Jan,Acquired,600000,image32.com,7.238356164,82891.74868,0,0,5,346,912,123
+667,Startup,https://angel.co/company/tinehealth,Tine Health,"
+Reducing hospital errors with AR based on demand instructions at the point of care
+",9/1/2013,San Francisco,Augmented Reality,10-Jan,Seed,650000,tinehealth.com,6.734246575,96521.56225,0,0,5,0,0,0
+668,Startup,https://angel.co/company/cerora-1,Cerora,"
+Device & Software Platform for Brain Injury Detection
+",1/1/2014,Bethlehem,Medical Devices,10-Jan,Seed,655000,cerora.com,6.4,102343.75,0,0,5,12,282,2308
+669,Startup,https://angel.co/company/myhint,myHINT,"
+A tool to increase insurance sales
+",11/1/2013,New Brunswick,Health and Insurance,10-Jan,Seed,600000,myhint.co,6.567123288,91364.20526,0,0,5,1,1,30
+670,Startup,https://angel.co/company/mylab,myLAB Box,"
+Your personal lab in a box. First nationwide at home testing-to-treatment platform
+",2/1/2014,Los Angeles,Testing,10-Jan,Seed,590000,mylabbox.com,6.315068493,93427.33189,0,0,5,0,0,0
+671,Startup,https://angel.co/company/zakipoint-health,zakipoint health,"
+improve value from healthcare program spend for self-funded employers
+",2/1/2014,Cambridge,Big Data Analytics,10-Jan,Seed,610000,zakipointhealth.com,6.315068493,96594.36009,0,0,5,0,0,0
+672,Startup,https://angel.co/company/yomp-1,Yomp,"
+B2B employee-engagement in Health & Wellbeing
+",3/1/2014,London,Corporate Wellness,10-Jan,Seed,655000,yomp.co,6.238356164,104995.6083,0,0,5,9,3,1
+673,Startup,https://angel.co/company/fitgofun,FitGoFun,"
+Game-oriented mobile fitness program
+",4/1/2014,San Francisco,Fitness,10-Jan,Seed,575000,FitGoFun.com,6.153424658,93443.90027,0,0,5,0,0,0
+674,Startup,https://angel.co/company/mdops-1,MDOps,"
+Siri for a Physician
+",2/1/2016,Melville,Artificial Intelligence,10-Jan,Seed,620000,MDOps.com,4.315068493,143682.5397,0,0,5,0,0,0
+675,Startup,https://angel.co/company/fitbod,Fitbod,"
+Data-Driven Fitness
+",10/1/2015,San Francisco,Fitness,Nov-50,Seed,645000,fitbod.me,4.652054795,138648.4099,0,0,25,56,16,20
+676,Startup,https://angel.co/company/bluewavetech,BLUEWAVE Technologies,"
+Fast. Simple. Safe
+",12/1/2015,Gainesville,Medical Devices,10-Jan,Seed,615000,bluewave.tech,4.484931507,137125.84,0,0,5,0,0,0
+677,Startup,https://angel.co/company/unified-practice,Unified Practice,"
+",7/1/2016,New York City,Alternative Medicine,Nov-50,Seed,650000,unifiedpractice.com,3.901369863,166608.1461,0,0,25,0,0,0
+678,Startup,https://angel.co/company/pivotal-innovation-1,Pivotal Innovation,"
+Empowering Companies to Accelerate Innovation Performance
+",10/1/2016,Denver,Manufacturing,10-Jan,Seed,575000,pivotalinnovation.com,3.649315068,157563.8138,0,0,5,0,0,0
+679,Startup,https://angel.co/company/imagebiopsy-lab,ImageBiopsy Lab,"
+Health AI for assessing bone disease 
+",3/1/2017,Vienna,Medical Technologies,-,Seed,650000,imagebiopsy.com,3.235616438,200889.0771,0,0,,0,0,0
+680,Startup,https://angel.co/company/autobike,AutoBike,"
+Evolving the bicycle
+",2/1/2012,Detroit,Fitness,10-Jan,-,563000,evolvethebike.com,8.317808219,67686.10013,0,0,5,3,0,0
+681,Startup,https://angel.co/company/clickcare,ClickCare,"
+Simple, secure, spectacular hybrid store and forward telemedicine
+",3/1/2012,Binghamton,mHealth,10-Jan,Seed,500000,clickcare.com,8.238356164,60691.71932,0,0,5,1277,2003,4538
+682,Startup,https://angel.co/company/bettrlife,BettrLife,"
+",9/1/2013,Des Moines,Corporate Wellness,10-Jan,-,550000,bettrlife.com,6.734246575,81672.09113,0,0,5,932,1857,1931
+683,Startup,https://angel.co/company/clinicast,CliniCast,"
+Manage Cost and Enhance Quality of Cancer Care
+",5/1/2012,San Francisco,Risk Management,10-Jan,-,500000,clinicast.net,8.071232877,61948.40462,0,0,5,176,135,30
+684,Startup,https://angel.co/company/oriental-medway,Oriental Medway,"
+chinese herb,acupuncture
+",3/1/2013,New Castle,Personal Health,10-Jan,Seed,500000,orientalmedway.com,7.238356164,69076.45723,0,0,5,0,0,0
+685,Startup,https://angel.co/company/you-app,Fifth Corner Inc.,"
+Wellbeing and performance coaching for modern organizations
+",3/1/2013,Helsinki,B2B,10-Jan,Seed,550000,fifthcornerinc.com,7.238356164,75984.10295,0,0,5,0,0,0
+686,Startup,https://angel.co/company/healthcentrix,HealthCentrix - Prevvy.co,"
+Connected Health Ecosystem beyond the clinic
+",7/1/2013,San Francisco Bay Area,Mobile Health,10-Jan,Seed,530000,healthcentrix.com,6.904109589,76765.87302,0,0,5,0,0,0
+687,Startup,https://angel.co/company/scanalytics-1,Scanalytics,"
+Consumer behavior analytics
+",9/1/2013,Milwaukee,Retail Technology,10-Jan,-,520000,scanalyticsinc.com,6.734246575,77217.2498,0,0,5,11,8,2
+688,Startup,https://angel.co/company/at-peak-resources,At Peak Resources,"
+Digital Health and Wellness
+",11/1/2013,New York City,Teenagers,10-Jan,Seed,500000,atpeaksports.com,6.567123288,76136.83771,0,0,5,0,0,0
+689,Startup,https://angel.co/company/simplicity-health-systems,Simplicity Health Systems,"
+IFTTT or Zapier for Healthcare
+",1/1/2014,Dallas,Mobile Health,10-Jan,Seed,500000,simplicityhealthsystems.com,6.4,78125,0,0,5,0,0,0
+690,Startup,https://angel.co/company/deliverlean,DeliverLean,"
+Healthy chef prepared meal delivery
+",4/1/2014,Miami,Corporate Wellness,51-200,Seed,525000,deliverlean.com,6.153424658,85318.34372,0,0,125,885,457,2994
+691,Startup,https://angel.co/company/mobio-interactive,Mobio Interactive,"
+Effective and Accessible Healthcare for Every Human
+",6/1/2014,Singapore,Mobile Health,10-Jan,Seed,550000,midigitaltherapeutics.com,5.98630137,91876.43021,0,0,5,0,0,0
+692,Startup,https://angel.co/company/ringmd,RingMD,"
+Our mission is to bring healthcare online & improve access to affordable health services
+",5/1/2014,Singapore,Internet of Things,51-200,Seed,500000,ring.md,6.071232877,82355.59567,0,0,125,1299,65,1025
+693,Startup,https://angel.co/company/special-learning-inc,"Special Learning, Inc.","
+We educate educators and parents on how to successfully teach kids with Autism
+",2/1/2015,Chicago,K-12 Education,Nov-50,Seed,575000,special-learning.com,5.315068493,108182.9897,0,0,25,0,0,0
+694,Startup,https://angel.co/company/cm-technology,CM Technology,"
+Integrated Scheduling System for Hospitals, Clinics and Labs
+",11/1/2014,Belo Horizonte,Online Scheduling,10-Jan,Seed,525000,cmtecnologia.com.br,5.567123288,94303.64173,0,0,5,0,0,0
+695,Startup,https://angel.co/company/training-amigo,Training Amigo,"
+Helping organizations automate and simplify managing people, culture and wellbeing
+",2/1/2015,Tampa,B2B,10-Jan,Seed,562500,trainingamigo.com,5.315068493,105831.1856,0,0,5,0,0,0
+696,Startup,https://angel.co/company/kericure-3,KeriCure,"
+Nanoparticle Drug delivery platform technology
+",9/1/2015,Tampa,Medical Devices,,Seed,500000,kericure.com,4.734246575,105613.4259,0,0,,1084,1783,2474
+697,Startup,https://angel.co/company/zenklub,Zenklub,"
+The place where people unlock their full potential
+",3/1/2016,Lisbon,Health and Wellness,Nov-50,Seed,500000,zenklub.com.br,4.235616438,118046.5718,0,0,25,364,25,1814
